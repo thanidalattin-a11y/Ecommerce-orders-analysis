@@ -1,0 +1,1201 @@
+Order ID,Order Date,Segment,State,Product,Category,Quantity,Unit Price,Discount,Sales,Shipping,Profit,Channel,Status
+ORD-10001,2025-05-06,Consumer,FL,Phone Case,Accessories,1,12.5,0.15,10.62,4.99,5.629999999999999,Amazon,Cancelled
+ORD-10002,2025-01-17,Consumer,FL,Notebook Set,Office,1,9.99,0.1,8.99,6.99,2.0,TikTok,Returned
+ORD-10003,2025-04-23,Consumer,NC,Wireless Earbuds,Electronics,2,29.99,0,59.98,6.99,52.989999999999995,Website,Delivered
+ORD-10004,2025-04-21,Consumer,FL,Water Bottle,Sports,1,18.5,0,18.5,0,13.5,Website,Delivered
+ORD-10005,2026-01-09,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Instagram,Delivered
+ORD-10006,2025-10-23,Consumer,FL,Notebook Set,Office,1,9.99,0.2,7.99,4.99,-2.0,Website,Delivered
+ORD-10007,2025-07-14,Consumer,CA,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Website,Delivered
+ORD-10008,2025-12-26,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,4.99,6.01,Website,Returned
+ORD-10009,2025-05-19,Corporate,GA,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,6.99,7.25,Website,Delivered
+ORD-10010,2025-02-03,Consumer,TX,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Instagram,Delivered
+ORD-10011,2025-05-07,Corporate,NC,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Instagram,Returned
+ORD-10012,2025-09-18,Consumer,FL,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Delivered
+ORD-10013,2025-07-17,Consumer,CA,Yoga Mat,Sports,3,24.0,0.05,68.4,0,68.4,TikTok,Delivered
+ORD-10014,2026-01-29,Corporate,TX,Phone Case,Accessories,3,12.5,0.1,33.75,4.99,23.76,Instagram,Delivered
+ORD-10015,2025-09-14,Consumer,FL,LED Strip Lights,Home,1,22.0,0.15,18.7,4.99,13.709999999999999,Website,Cancelled
+ORD-10016,2025-07-11,Consumer,FL,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Instagram,Delivered
+ORD-10017,2025-05-03,Consumer,GA,Phone Case,Accessories,1,12.5,0.2,10.0,4.99,5.01,Website,Delivered
+ORD-10018,2025-03-07,Corporate,CA,LED Strip Lights,Home,1,22.0,0.2,17.6,0,17.6,Website,Delivered
+ORD-10019,2025-10-04,Corporate,GA,Notebook Set,Office,2,9.99,0.05,18.98,0,18.98,Instagram,Cancelled
+ORD-10020,2025-03-03,Consumer,GA,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,6.99,7.81,Website,Returned
+ORD-10021,2025-01-04,Consumer,FL,Notebook Set,Office,1,9.99,0.1,8.99,0,8.99,Website,Delivered
+ORD-10022,2025-12-09,Consumer,GA,Phone Case,Accessories,2,12.5,0,25.0,4.99,20.009999999999998,Amazon,Returned
+ORD-10023,2025-07-28,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,27.99,Instagram,Delivered
+ORD-10024,2025-12-11,Corporate,FL,Water Bottle,Sports,2,18.5,0.05,35.15,0,30.15,Amazon,Delivered
+ORD-10025,2025-10-02,Consumer,FL,Phone Case,Accessories,1,12.5,0,12.5,0,12.5,Website,Delivered
+ORD-10026,2025-01-26,Corporate,FL,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,0,14.24,Website,Delivered
+ORD-10027,2025-07-25,Consumer,FL,Water Bottle,Sports,2,18.5,0.05,35.15,0,35.15,Instagram,Delivered
+ORD-10028,2025-03-21,Consumer,NC,LED Strip Lights,Home,1,22.0,0.05,20.9,6.99,13.909999999999998,Website,Returned
+ORD-10029,2025-01-30,Consumer,CA,Notebook Set,Office,1,9.99,0.15,8.49,4.99,3.5,TikTok,Delivered
+ORD-10030,2025-02-05,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Website,Delivered
+ORD-10031,2025-11-14,Consumer,NY,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,TikTok,Returned
+ORD-10032,2025-05-03,Consumer,NY,Running Socks 3pk,Apparel,1,11.0,0,11.0,4.99,1.01,Amazon,Delivered
+ORD-10033,2025-01-05,Consumer,FL,LED Strip Lights,Home,1,22.0,0.2,17.6,0,12.6,Website,Returned
+ORD-10034,2025-05-06,Consumer,NC,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,TikTok,Cancelled
+ORD-10035,2025-12-08,Corporate,NC,Desk Lamp,Home,2,32.0,0.2,51.2,0,51.2,Website,Delivered
+ORD-10036,2025-05-20,Consumer,GA,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Website,Cancelled
+ORD-10037,2025-01-27,Consumer,NY,Desk Lamp,Home,2,32.0,0.05,60.8,4.99,55.809999999999995,Website,Delivered
+ORD-10038,2025-03-24,Corporate,CA,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,4.99,4.359999999999999,Instagram,Returned
+ORD-10039,2025-10-07,Consumer,TX,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Website,Delivered
+ORD-10040,2025-01-21,Consumer,GA,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,Amazon,Delivered
+ORD-10041,2025-11-14,Corporate,FL,Running Socks 3pk,Apparel,2,11.0,0.2,17.6,6.99,10.610000000000001,Website,Delivered
+ORD-10042,2026-01-13,Consumer,NY,Yoga Mat,Sports,2,24.0,0,48.0,0,48.0,Amazon,Delivered
+ORD-10043,2025-07-15,Consumer,CA,Desk Lamp,Home,1,32.0,0.2,25.6,0,25.6,Instagram,Delivered
+ORD-10044,2025-12-04,Consumer,NY,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Website,Delivered
+ORD-10045,2025-12-14,Corporate,TX,Running Socks 3pk,Apparel,3,11.0,0.1,29.7,6.99,22.71,Website,Delivered
+ORD-10046,2025-02-25,Corporate,NY,Yoga Mat,Sports,2,24.0,0,48.0,0,48.0,Website,Delivered
+ORD-10047,2025-10-23,Consumer,NC,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,27.99,Instagram,Delivered
+ORD-10048,2025-07-06,Consumer,FL,Notebook Set,Office,2,9.99,0.15,16.98,0,16.98,Website,Returned
+ORD-10049,2026-01-04,Consumer,NC,Running Socks 3pk,Apparel,3,11.0,0.2,26.4,0,26.4,Website,Delivered
+ORD-10050,2025-08-04,Corporate,NY,Desk Lamp,Home,2,32.0,0,64.0,0,64.0,Website,Returned
+ORD-10051,2025-06-05,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0.05,18.99,0,18.99,TikTok,Returned
+ORD-10052,2025-12-12,Consumer,CA,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,6.99,13.909999999999998,Amazon,Delivered
+ORD-10053,2025-02-17,Consumer,NC,Phone Case,Accessories,1,12.5,0.1,11.25,4.99,6.26,Website,Delivered
+ORD-10054,2025-11-09,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Amazon,Returned
+ORD-10055,2025-09-11,Consumer,GA,Coffee Beans 1lb,Grocery,3,14.99,0.15,38.22,6.99,26.23,Amazon,Delivered
+ORD-10056,2025-12-23,Corporate,CA,Phone Case,Accessories,2,12.5,0,25.0,0,20.0,Website,Delivered
+ORD-10057,2025-12-08,Corporate,TX,LED Strip Lights,Home,1,22.0,0.2,17.6,6.99,10.610000000000001,Instagram,Returned
+ORD-10058,2025-03-23,Corporate,CA,Notebook Set,Office,2,9.99,0.2,15.98,6.99,8.99,Website,Cancelled
+ORD-10059,2025-05-21,Consumer,FL,Desk Lamp,Home,2,32.0,0.05,60.8,0,60.8,Website,Delivered
+ORD-10060,2025-03-12,Consumer,GA,Running Socks 3pk,Apparel,1,11.0,0.1,9.9,0,9.9,Website,Cancelled
+ORD-10061,2025-06-19,Corporate,CA,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,6.99,7.25,Website,Delivered
+ORD-10062,2026-01-27,Corporate,NY,Water Bottle,Sports,2,18.5,0.15,31.45,0,31.45,Website,Delivered
+ORD-10063,2025-09-07,Consumer,NC,Water Bottle,Sports,2,18.5,0.1,33.3,0,33.3,Website,Delivered
+ORD-10064,2026-01-06,Consumer,CA,Running Socks 3pk,Apparel,3,11.0,0.15,28.05,6.99,21.060000000000002,TikTok,Returned
+ORD-10065,2025-02-12,Corporate,NY,Wireless Earbuds,Electronics,2,29.99,0.1,53.98,0,48.98,Instagram,Delivered
+ORD-10066,2025-04-19,Consumer,TX,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Instagram,Delivered
+ORD-10067,2025-08-29,Consumer,FL,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,Website,Delivered
+ORD-10068,2025-05-07,Consumer,FL,Phone Case,Accessories,3,12.5,0,37.5,0,37.5,Website,Delivered
+ORD-10069,2025-08-27,Corporate,NC,LED Strip Lights,Home,3,22.0,0,66.0,0,66.0,Website,Returned
+ORD-10070,2026-02-03,Consumer,NC,Protein Bar Box,Grocery,3,19.99,0.15,50.97,0,45.97,Website,Delivered
+ORD-10071,2026-01-02,Consumer,FL,Protein Bar Box,Grocery,3,19.99,0.05,56.97,6.99,49.98,Amazon,Delivered
+ORD-10072,2025-12-17,Corporate,FL,Phone Case,Accessories,3,12.5,0.2,30.0,4.99,25.009999999999998,TikTok,Delivered
+ORD-10073,2025-02-05,Corporate,TX,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,4.99,10.91,Instagram,Delivered
+ORD-10074,2025-12-29,Consumer,NY,Phone Case,Accessories,2,12.5,0,25.0,6.99,18.009999999999998,TikTok,Cancelled
+ORD-10075,2025-08-27,Consumer,NC,Desk Lamp,Home,2,32.0,0.2,51.2,6.99,44.21,Website,Delivered
+ORD-10076,2025-10-19,Corporate,NY,Desk Lamp,Home,2,32.0,0,64.0,6.99,57.01,Instagram,Delivered
+ORD-10077,2025-05-13,Consumer,NC,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,Amazon,Delivered
+ORD-10078,2025-02-13,Consumer,NY,Notebook Set,Office,1,9.99,0.1,8.99,0,8.99,Website,Cancelled
+ORD-10079,2025-08-18,Consumer,FL,LED Strip Lights,Home,3,22.0,0.15,56.1,6.99,49.11,Instagram,Cancelled
+ORD-10080,2025-08-31,Corporate,TX,Coffee Beans 1lb,Grocery,1,14.99,0.15,12.74,4.99,7.75,Amazon,Returned
+ORD-10081,2025-05-19,Consumer,NC,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,6.99,2.3599999999999994,Amazon,Delivered
+ORD-10082,2025-04-09,Consumer,CA,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,9.35,TikTok,Returned
+ORD-10083,2025-06-01,Consumer,TX,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Cancelled
+ORD-10084,2025-01-28,Corporate,NC,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Website,Cancelled
+ORD-10085,2025-10-21,Consumer,CA,LED Strip Lights,Home,1,22.0,0.2,17.6,0,17.6,Website,Delivered
+ORD-10086,2025-02-28,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,6.99,17.0,TikTok,Cancelled
+ORD-10087,2025-02-13,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,Instagram,Returned
+ORD-10088,2025-08-19,Consumer,NC,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,32.989999999999995,Instagram,Delivered
+ORD-10089,2026-01-26,Consumer,GA,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Website,Delivered
+ORD-10090,2025-03-22,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,0,13.49,TikTok,Delivered
+ORD-10091,2025-12-28,Consumer,CA,Desk Lamp,Home,1,32.0,0,32.0,4.99,22.01,Website,Delivered
+ORD-10092,2025-08-06,Consumer,GA,Protein Bar Box,Grocery,3,19.99,0.2,47.98,0,47.98,Website,Delivered
+ORD-10093,2025-11-01,Corporate,NC,Phone Case,Accessories,1,12.5,0,12.5,4.99,7.51,Instagram,Cancelled
+ORD-10094,2025-09-14,Corporate,CA,Desk Lamp,Home,3,32.0,0.05,91.2,4.99,86.21000000000001,TikTok,Delivered
+ORD-10095,2025-01-14,Consumer,GA,Water Bottle,Sports,3,18.5,0,55.5,4.99,50.51,TikTok,Returned
+ORD-10096,2025-10-23,Consumer,FL,Wireless Earbuds,Electronics,3,29.99,0.2,71.98,4.99,66.99000000000001,Amazon,Delivered
+ORD-10097,2025-11-22,Consumer,FL,Desk Lamp,Home,1,32.0,0.1,28.8,6.99,21.810000000000002,Instagram,Delivered
+ORD-10098,2025-06-18,Consumer,CA,Running Socks 3pk,Apparel,3,11.0,0,33.0,0,33.0,Instagram,Returned
+ORD-10099,2025-05-10,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,4.99,54.989999999999995,Instagram,Returned
+ORD-10100,2025-07-31,Consumer,GA,Wireless Earbuds,Electronics,3,29.99,0.2,71.98,6.99,64.99000000000001,TikTok,Delivered
+ORD-10101,2025-10-09,Consumer,NC,LED Strip Lights,Home,1,22.0,0,22.0,4.99,17.009999999999998,Amazon,Delivered
+ORD-10102,2025-12-30,Consumer,NC,Phone Case,Accessories,1,12.5,0.15,10.62,0,10.62,TikTok,Delivered
+ORD-10103,2025-08-25,Consumer,FL,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Amazon,Delivered
+ORD-10104,2025-09-05,Consumer,GA,Notebook Set,Office,3,9.99,0,29.97,6.99,22.979999999999997,Website,Delivered
+ORD-10105,2025-02-05,Consumer,NY,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,26.98,TikTok,Delivered
+ORD-10106,2025-10-28,Corporate,CA,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,4.99,20.5,Instagram,Returned
+ORD-10107,2025-08-22,Consumer,GA,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,Website,Returned
+ORD-10108,2025-01-23,Consumer,CA,Water Bottle,Sports,1,18.5,0.2,14.8,6.99,7.8100000000000005,Instagram,Delivered
+ORD-10109,2025-09-15,Corporate,TX,Yoga Mat,Sports,2,24.0,0,48.0,0,48.0,Instagram,Delivered
+ORD-10110,2025-07-29,Corporate,FL,Notebook Set,Office,2,9.99,0,19.98,0,14.98,Website,Delivered
+ORD-10111,2025-06-18,Corporate,NY,Protein Bar Box,Grocery,3,19.99,0.05,56.97,0,56.97,Amazon,Cancelled
+ORD-10112,2025-05-01,Corporate,NC,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,Amazon,Delivered
+ORD-10113,2025-08-16,Consumer,NC,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,Website,Delivered
+ORD-10114,2025-08-09,Consumer,GA,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,TikTok,Cancelled
+ORD-10115,2025-11-09,Consumer,GA,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,TikTok,Delivered
+ORD-10116,2025-08-24,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.15,25.48,4.99,20.490000000000002,Instagram,Delivered
+ORD-10117,2025-06-26,Corporate,NC,Notebook Set,Office,1,9.99,0,9.99,6.99,3.0,Instagram,Cancelled
+ORD-10118,2025-04-12,Consumer,CA,Desk Lamp,Home,2,32.0,0.2,51.2,4.99,41.21,Instagram,Returned
+ORD-10119,2025-01-12,Corporate,NY,Running Socks 3pk,Apparel,2,11.0,0,22.0,4.99,17.009999999999998,TikTok,Cancelled
+ORD-10120,2025-05-27,Consumer,TX,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,6.99,43.989999999999995,Website,Returned
+ORD-10121,2025-11-18,Consumer,FL,Desk Lamp,Home,3,32.0,0.2,76.8,0,76.8,Instagram,Delivered
+ORD-10122,2025-02-16,Consumer,TX,Protein Bar Box,Grocery,1,19.99,0.15,16.99,0,16.99,Website,Delivered
+ORD-10123,2025-03-26,Consumer,CA,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,Website,Cancelled
+ORD-10124,2025-03-14,Consumer,NY,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,0,10.45,TikTok,Delivered
+ORD-10125,2025-10-02,Consumer,CA,Phone Case,Accessories,2,12.5,0,25.0,4.99,20.009999999999998,Amazon,Cancelled
+ORD-10126,2025-02-25,Corporate,GA,Desk Lamp,Home,2,32.0,0.05,60.8,4.99,55.809999999999995,TikTok,Returned
+ORD-10127,2025-11-22,Consumer,NC,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Website,Delivered
+ORD-10128,2025-03-01,Consumer,GA,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Website,Delivered
+ORD-10129,2025-10-28,Corporate,FL,LED Strip Lights,Home,1,22.0,0.15,18.7,6.99,11.709999999999999,Amazon,Delivered
+ORD-10130,2025-01-17,Corporate,TX,LED Strip Lights,Home,2,22.0,0.05,41.8,4.99,36.809999999999995,Instagram,Delivered
+ORD-10131,2025-10-06,Corporate,TX,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,4.99,-0.64,Website,Delivered
+ORD-10132,2025-11-25,Corporate,FL,Phone Case,Accessories,2,12.5,0,25.0,0,20.0,Website,Delivered
+ORD-10133,2026-01-27,Corporate,GA,Yoga Mat,Sports,2,24.0,0,48.0,0,48.0,Website,Delivered
+ORD-10134,2025-03-16,Consumer,NC,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,Website,Cancelled
+ORD-10135,2025-05-02,Corporate,TX,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,20.0,Website,Delivered
+ORD-10136,2026-01-17,Consumer,CA,Yoga Mat,Sports,3,24.0,0.05,68.4,0,68.4,Website,Returned
+ORD-10137,2025-11-11,Consumer,NC,Protein Bar Box,Grocery,1,19.99,0.05,18.99,0,18.99,Website,Delivered
+ORD-10138,2025-09-09,Corporate,CA,LED Strip Lights,Home,2,22.0,0.05,41.8,0,36.8,Website,Delivered
+ORD-10139,2025-05-21,Corporate,TX,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,TikTok,Returned
+ORD-10140,2025-02-20,Corporate,FL,Desk Lamp,Home,2,32.0,0.1,57.6,6.99,50.61,Amazon,Returned
+ORD-10141,2025-07-31,Consumer,CA,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,0,28.48,Amazon,Delivered
+ORD-10142,2025-07-11,Consumer,CA,Running Socks 3pk,Apparel,2,11.0,0,22.0,4.99,12.01,Website,Delivered
+ORD-10143,2025-03-08,Corporate,FL,Water Bottle,Sports,1,18.5,0.15,15.72,4.99,10.73,TikTok,Returned
+ORD-10144,2025-07-01,Corporate,NY,Running Socks 3pk,Apparel,3,11.0,0,33.0,6.99,26.009999999999998,Amazon,Delivered
+ORD-10145,2025-02-23,Corporate,GA,Desk Lamp,Home,2,32.0,0,64.0,4.99,59.01,Instagram,Delivered
+ORD-10146,2025-02-28,Consumer,GA,Phone Case,Accessories,1,12.5,0.2,10.0,4.99,5.01,TikTok,Returned
+ORD-10147,2025-11-08,Corporate,NC,Protein Bar Box,Grocery,3,19.99,0.15,50.97,0,45.97,Website,Cancelled
+ORD-10148,2025-04-03,Consumer,NY,Desk Lamp,Home,1,32.0,0,32.0,0,27.0,Amazon,Cancelled
+ORD-10149,2025-07-12,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,0,25.49,Website,Delivered
+ORD-10150,2025-01-27,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,0,19.8,Website,Cancelled
+ORD-10151,2025-09-06,Corporate,CA,Phone Case,Accessories,1,12.5,0.05,11.88,6.99,4.890000000000001,Website,Returned
+ORD-10152,2025-05-26,Corporate,CA,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Website,Delivered
+ORD-10153,2025-01-04,Consumer,NC,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,26.98,Website,Delivered
+ORD-10154,2025-09-12,Corporate,NY,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Instagram,Returned
+ORD-10155,2025-02-06,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,4.99,21.990000000000002,Instagram,Delivered
+ORD-10156,2025-12-30,Corporate,NY,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,6.99,13.909999999999998,Instagram,Delivered
+ORD-10157,2025-12-20,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,6.99,1.8100000000000005,Website,Delivered
+ORD-10158,2025-07-22,Consumer,TX,Water Bottle,Sports,2,18.5,0.05,35.15,0,35.15,Website,Delivered
+ORD-10159,2026-02-02,Consumer,TX,Notebook Set,Office,3,9.99,0,29.97,0,29.97,Amazon,Delivered
+ORD-10160,2025-04-12,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,Amazon,Delivered
+ORD-10161,2026-01-22,Corporate,CA,Yoga Mat,Sports,3,24.0,0.05,68.4,6.99,61.410000000000004,TikTok,Cancelled
+ORD-10162,2025-03-19,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,4.99,11.0,Amazon,Delivered
+ORD-10163,2025-09-17,Consumer,NC,Desk Lamp,Home,2,32.0,0,64.0,4.99,59.01,Website,Delivered
+ORD-10164,2025-11-11,Corporate,NY,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,11.0,TikTok,Cancelled
+ORD-10165,2025-06-14,Corporate,CA,Wireless Earbuds,Electronics,2,29.99,0.2,47.98,0,47.98,Website,Delivered
+ORD-10166,2025-09-16,Corporate,FL,Phone Case,Accessories,1,12.5,0.15,10.62,0,5.62,Amazon,Delivered
+ORD-10167,2025-07-06,Consumer,NC,LED Strip Lights,Home,2,22.0,0.1,39.6,0,39.6,Website,Cancelled
+ORD-10168,2025-02-03,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,4.99,11.0,Instagram,Delivered
+ORD-10169,2025-06-20,Consumer,FL,Desk Lamp,Home,3,32.0,0.2,76.8,0,76.8,Website,Cancelled
+ORD-10170,2025-06-08,Corporate,NY,Water Bottle,Sports,1,18.5,0.1,16.65,0,16.65,Website,Delivered
+ORD-10171,2025-09-18,Consumer,FL,Notebook Set,Office,1,9.99,0.15,8.49,6.99,1.5,Website,Delivered
+ORD-10172,2025-03-12,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Website,Returned
+ORD-10173,2025-12-05,Consumer,FL,Notebook Set,Office,3,9.99,0.1,26.97,0,26.97,Website,Delivered
+ORD-10174,2026-01-05,Consumer,FL,Yoga Mat,Sports,3,24.0,0.2,57.6,0,57.6,Amazon,Cancelled
+ORD-10175,2026-01-21,Corporate,CA,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,4.99,21.990000000000002,Website,Delivered
+ORD-10176,2025-08-25,Consumer,NY,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,Instagram,Delivered
+ORD-10177,2025-01-27,Corporate,CA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,TikTok,Delivered
+ORD-10178,2026-01-26,Consumer,NC,Notebook Set,Office,1,9.99,0,9.99,0,9.99,TikTok,Delivered
+ORD-10179,2025-06-28,Consumer,NY,Water Bottle,Sports,1,18.5,0,18.5,6.99,6.51,TikTok,Delivered
+ORD-10180,2025-04-25,Consumer,TX,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,Amazon,Cancelled
+ORD-10181,2025-05-27,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,11.0,Instagram,Delivered
+ORD-10182,2025-05-12,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Amazon,Returned
+ORD-10183,2025-05-02,Consumer,FL,Notebook Set,Office,2,9.99,0,19.98,4.99,9.99,Instagram,Cancelled
+ORD-10184,2025-09-13,Corporate,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,TikTok,Delivered
+ORD-10185,2025-11-11,Consumer,GA,Yoga Mat,Sports,1,24.0,0.05,22.8,0,22.8,Website,Cancelled
+ORD-10186,2025-09-27,Corporate,FL,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Instagram,Delivered
+ORD-10187,2025-07-02,Consumer,TX,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Amazon,Cancelled
+ORD-10188,2025-03-10,Consumer,TX,Phone Case,Accessories,2,12.5,0.15,21.25,4.99,16.259999999999998,Amazon,Delivered
+ORD-10189,2025-03-11,Consumer,CA,LED Strip Lights,Home,3,22.0,0.05,62.7,0,57.7,Website,Delivered
+ORD-10190,2025-09-21,Consumer,CA,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,Amazon,Delivered
+ORD-10191,2025-12-02,Consumer,NC,Desk Lamp,Home,1,32.0,0.2,25.6,0,20.6,Website,Delivered
+ORD-10192,2025-06-23,Consumer,CA,Water Bottle,Sports,3,18.5,0.05,52.72,6.99,45.73,Website,Returned
+ORD-10193,2025-02-10,Consumer,FL,Desk Lamp,Home,1,32.0,0.15,27.2,6.99,20.21,Website,Delivered
+ORD-10194,2025-06-06,Consumer,NY,Phone Case,Accessories,1,12.5,0.15,10.62,4.99,5.629999999999999,Instagram,Delivered
+ORD-10195,2025-11-11,Consumer,NC,LED Strip Lights,Home,1,22.0,0.15,18.7,4.99,13.709999999999999,Website,Delivered
+ORD-10196,2025-01-16,Consumer,CA,Water Bottle,Sports,1,18.5,0.1,16.65,0,11.65,Website,Delivered
+ORD-10197,2025-11-06,Consumer,CA,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,0,10.45,Website,Delivered
+ORD-10198,2025-07-23,Consumer,NC,Phone Case,Accessories,2,12.5,0,25.0,4.99,20.009999999999998,Website,Delivered
+ORD-10199,2025-10-15,Consumer,NC,Yoga Mat,Sports,2,24.0,0.1,43.2,6.99,36.21,Amazon,Delivered
+ORD-10200,2025-04-13,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,6.99,22.990000000000002,Instagram,Delivered
+ORD-10201,2025-12-08,Consumer,FL,LED Strip Lights,Home,1,22.0,0.2,17.6,4.99,12.610000000000001,Website,Delivered
+ORD-10202,2025-07-05,Corporate,GA,Yoga Mat,Sports,3,24.0,0.15,61.2,0,56.2,Website,Delivered
+ORD-10203,2025-10-11,Corporate,TX,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,TikTok,Delivered
+ORD-10204,2025-07-23,Corporate,CA,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,14.999999999999998,Instagram,Returned
+ORD-10205,2025-08-19,Consumer,TX,Phone Case,Accessories,1,12.5,0,12.5,0,7.5,TikTok,Cancelled
+ORD-10206,2025-08-10,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,0,15.99,TikTok,Delivered
+ORD-10207,2025-12-30,Consumer,TX,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,TikTok,Delivered
+ORD-10208,2025-03-06,Corporate,NC,Phone Case,Accessories,1,12.5,0,12.5,4.99,7.51,Website,Returned
+ORD-10209,2025-03-29,Corporate,TX,Yoga Mat,Sports,2,24.0,0.1,43.2,0,43.2,TikTok,Delivered
+ORD-10210,2025-11-30,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,Website,Delivered
+ORD-10211,2025-09-05,Consumer,NY,Notebook Set,Office,1,9.99,0.15,8.49,4.99,3.5,Website,Cancelled
+ORD-10212,2025-09-05,Consumer,GA,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,6.99,21.5,Website,Delivered
+ORD-10213,2025-07-24,Consumer,TX,Running Socks 3pk,Apparel,3,11.0,0.2,26.4,4.99,21.409999999999997,Website,Delivered
+ORD-10214,2025-08-19,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,19.99,Website,Delivered
+ORD-10215,2025-06-17,Corporate,TX,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Website,Delivered
+ORD-10216,2025-09-12,Consumer,FL,Notebook Set,Office,2,9.99,0.05,18.98,4.99,13.99,TikTok,Delivered
+ORD-10217,2025-01-25,Consumer,NC,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,4.99,8.5,Amazon,Cancelled
+ORD-10218,2025-02-25,Consumer,FL,LED Strip Lights,Home,1,22.0,0.1,19.8,0,19.8,Amazon,Delivered
+ORD-10219,2025-01-27,Corporate,GA,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Website,Delivered
+ORD-10220,2025-11-16,Corporate,FL,Water Bottle,Sports,2,18.5,0.05,35.15,4.99,25.16,Website,Delivered
+ORD-10221,2026-01-22,Consumer,GA,Running Socks 3pk,Apparel,1,11.0,0.1,9.9,4.99,4.91,Instagram,Returned
+ORD-10222,2026-01-01,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Website,Returned
+ORD-10223,2025-03-25,Consumer,NC,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,TikTok,Returned
+ORD-10224,2025-09-01,Consumer,TX,Notebook Set,Office,2,9.99,0.15,16.98,4.99,11.99,Website,Delivered
+ORD-10225,2025-11-02,Consumer,NC,Protein Bar Box,Grocery,1,19.99,0.2,15.99,0,15.99,TikTok,Returned
+ORD-10226,2025-03-29,Corporate,NY,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,6.99,32.98,Amazon,Delivered
+ORD-10227,2025-04-08,Consumer,CA,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,0,50.98,Website,Delivered
+ORD-10228,2026-01-12,Corporate,FL,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,6.99,19.990000000000002,TikTok,Delivered
+ORD-10229,2025-09-27,Consumer,TX,Notebook Set,Office,1,9.99,0.15,8.49,6.99,1.5,Instagram,Returned
+ORD-10230,2025-11-09,Consumer,GA,Running Socks 3pk,Apparel,2,11.0,0,22.0,4.99,17.009999999999998,Website,Returned
+ORD-10231,2025-12-27,Consumer,CA,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,Website,Returned
+ORD-10232,2025-07-22,Consumer,FL,Desk Lamp,Home,1,32.0,0,32.0,6.99,25.009999999999998,Website,Cancelled
+ORD-10233,2026-01-18,Consumer,GA,Phone Case,Accessories,1,12.5,0.05,11.88,4.99,6.890000000000001,TikTok,Delivered
+ORD-10234,2025-02-25,Corporate,GA,Notebook Set,Office,3,9.99,0,29.97,0,29.97,Amazon,Returned
+ORD-10235,2025-02-21,Consumer,TX,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,44.97,Website,Cancelled
+ORD-10236,2025-07-28,Corporate,CA,Yoga Mat,Sports,1,24.0,0.1,21.6,0,21.6,Website,Delivered
+ORD-10237,2026-01-29,Consumer,GA,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,9.35,Amazon,Delivered
+ORD-10238,2025-01-19,Consumer,CA,Yoga Mat,Sports,2,24.0,0.2,38.4,0,38.4,Amazon,Delivered
+ORD-10239,2025-06-21,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,TikTok,Returned
+ORD-10240,2025-05-20,Consumer,FL,LED Strip Lights,Home,1,22.0,0.2,17.6,6.99,10.610000000000001,Amazon,Delivered
+ORD-10241,2026-01-13,Consumer,NC,Desk Lamp,Home,3,32.0,0,96.0,0,96.0,Website,Delivered
+ORD-10242,2025-09-21,Consumer,FL,Protein Bar Box,Grocery,3,19.99,0.05,56.97,6.99,49.98,Website,Delivered
+ORD-10243,2025-01-04,Consumer,NY,Yoga Mat,Sports,2,24.0,0,48.0,0,48.0,Website,Delivered
+ORD-10244,2025-05-14,Corporate,TX,Desk Lamp,Home,2,32.0,0.15,54.4,0,54.4,Website,Cancelled
+ORD-10245,2025-07-27,Corporate,NC,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Amazon,Delivered
+ORD-10246,2025-03-10,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,TikTok,Delivered
+ORD-10247,2026-01-23,Corporate,GA,Water Bottle,Sports,3,18.5,0.1,49.95,6.99,42.96,Amazon,Returned
+ORD-10248,2025-02-09,Corporate,FL,Phone Case,Accessories,2,12.5,0.05,23.75,4.99,13.76,TikTok,Returned
+ORD-10249,2025-03-26,Consumer,CA,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,21.98,Website,Cancelled
+ORD-10250,2025-01-29,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,32.989999999999995,Instagram,Returned
+ORD-10251,2026-01-06,Consumer,NY,Wireless Earbuds,Electronics,2,29.99,0.05,56.98,4.99,51.989999999999995,Website,Cancelled
+ORD-10252,2025-08-05,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Website,Delivered
+ORD-10253,2025-04-03,Consumer,NY,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,Instagram,Delivered
+ORD-10254,2025-12-01,Consumer,FL,Water Bottle,Sports,2,18.5,0,37.0,0,37.0,TikTok,Delivered
+ORD-10255,2025-01-02,Consumer,NC,Notebook Set,Office,1,9.99,0.15,8.49,0,8.49,Amazon,Returned
+ORD-10256,2025-05-07,Consumer,TX,Water Bottle,Sports,2,18.5,0.05,35.15,0,35.15,Website,Cancelled
+ORD-10257,2025-11-11,Consumer,GA,Phone Case,Accessories,1,12.5,0.2,10.0,6.99,3.01,Website,Returned
+ORD-10258,2025-05-06,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0.1,53.98,0,53.98,Website,Returned
+ORD-10259,2025-04-30,Corporate,TX,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,Amazon,Delivered
+ORD-10260,2025-07-31,Consumer,NC,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,9.99,TikTok,Cancelled
+ORD-10261,2025-10-12,Consumer,FL,Yoga Mat,Sports,3,24.0,0.15,61.2,6.99,54.21,Amazon,Cancelled
+ORD-10262,2025-07-29,Consumer,NC,Water Bottle,Sports,2,18.5,0,37.0,6.99,30.009999999999998,TikTok,Delivered
+ORD-10263,2025-08-26,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,TikTok,Returned
+ORD-10264,2025-04-15,Consumer,FL,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,Website,Delivered
+ORD-10265,2025-01-27,Consumer,NY,Notebook Set,Office,3,9.99,0.2,23.98,0,23.98,TikTok,Delivered
+ORD-10266,2025-09-03,Consumer,TX,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Website,Delivered
+ORD-10267,2025-05-05,Corporate,GA,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,6.99,37.98,Website,Returned
+ORD-10268,2025-10-01,Corporate,TX,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,6.99,3.459999999999999,Website,Returned
+ORD-10269,2026-01-25,Consumer,GA,LED Strip Lights,Home,2,22.0,0,44.0,6.99,37.01,Instagram,Delivered
+ORD-10270,2025-01-09,Consumer,NY,Protein Bar Box,Grocery,1,19.99,0.15,16.99,0,16.99,Website,Delivered
+ORD-10271,2025-09-13,Corporate,TX,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,26.98,Instagram,Cancelled
+ORD-10272,2025-03-28,Consumer,CA,LED Strip Lights,Home,2,22.0,0,44.0,4.99,39.01,TikTok,Cancelled
+ORD-10273,2025-12-09,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Amazon,Delivered
+ORD-10274,2025-04-22,Corporate,CA,Phone Case,Accessories,3,12.5,0,37.5,0,37.5,TikTok,Cancelled
+ORD-10275,2025-01-09,Consumer,NY,Protein Bar Box,Grocery,2,19.99,0.15,33.98,6.99,21.99,TikTok,Cancelled
+ORD-10276,2025-09-15,Corporate,NY,Desk Lamp,Home,2,32.0,0,64.0,0,64.0,Website,Delivered
+ORD-10277,2025-04-09,Corporate,NC,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Website,Delivered
+ORD-10278,2025-10-17,Consumer,GA,Phone Case,Accessories,1,12.5,0.05,11.88,6.99,4.890000000000001,Website,Cancelled
+ORD-10279,2025-07-13,Corporate,CA,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,6.99,16.5,Website,Cancelled
+ORD-10280,2025-11-27,Consumer,FL,Yoga Mat,Sports,1,24.0,0.05,22.8,6.99,15.81,Website,Delivered
+ORD-10281,2025-05-19,Consumer,FL,Coffee Beans 1lb,Grocery,3,14.99,0.1,40.47,6.99,33.48,Website,Returned
+ORD-10282,2025-06-11,Consumer,GA,Protein Bar Box,Grocery,3,19.99,0,59.97,0,59.97,Amazon,Delivered
+ORD-10283,2025-10-18,Consumer,TX,Phone Case,Accessories,1,12.5,0,12.5,0,12.5,Amazon,Delivered
+ORD-10284,2025-01-28,Consumer,NY,Phone Case,Accessories,2,12.5,0.15,21.25,4.99,16.259999999999998,Website,Delivered
+ORD-10285,2026-02-01,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0.1,35.98,6.99,28.989999999999995,Instagram,Delivered
+ORD-10286,2025-08-10,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,6.99,1.5,TikTok,Delivered
+ORD-10287,2025-05-18,Consumer,NY,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,44.97,Amazon,Delivered
+ORD-10288,2025-02-16,Consumer,NC,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Delivered
+ORD-10289,2025-08-18,Corporate,NY,Yoga Mat,Sports,1,24.0,0,24.0,6.99,12.01,Website,Delivered
+ORD-10290,2025-07-17,Consumer,NC,Notebook Set,Office,1,9.99,0.1,8.99,4.99,4.0,Website,Cancelled
+ORD-10291,2025-12-17,Consumer,FL,Notebook Set,Office,1,9.99,0.1,8.99,0,3.99,Website,Delivered
+ORD-10292,2025-08-11,Consumer,NY,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Website,Delivered
+ORD-10293,2025-11-01,Corporate,GA,Desk Lamp,Home,1,32.0,0.15,27.2,6.99,20.21,Website,Delivered
+ORD-10294,2025-06-18,Consumer,TX,Wireless Earbuds,Electronics,2,29.99,0,59.98,6.99,52.989999999999995,Amazon,Returned
+ORD-10295,2025-09-03,Consumer,FL,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Delivered
+ORD-10296,2025-06-16,Consumer,NC,LED Strip Lights,Home,2,22.0,0.2,35.2,0,35.2,Instagram,Delivered
+ORD-10297,2025-12-16,Corporate,FL,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Instagram,Cancelled
+ORD-10298,2025-12-21,Consumer,NY,Coffee Beans 1lb,Grocery,2,14.99,0.2,23.98,4.99,18.990000000000002,Website,Cancelled
+ORD-10299,2026-01-02,Consumer,NY,Desk Lamp,Home,1,32.0,0,32.0,0,27.0,TikTok,Delivered
+ORD-10300,2025-10-06,Consumer,TX,Protein Bar Box,Grocery,2,19.99,0.1,35.98,6.99,28.989999999999995,TikTok,Returned
+ORD-10301,2025-12-03,Corporate,TX,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,TikTok,Delivered
+ORD-10302,2026-01-21,Consumer,NY,Protein Bar Box,Grocery,3,19.99,0.15,50.97,6.99,38.98,Website,Delivered
+ORD-10303,2025-08-17,Consumer,NY,Coffee Beans 1lb,Grocery,2,14.99,0.15,25.48,0,25.48,Amazon,Returned
+ORD-10304,2025-09-05,Consumer,NC,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Website,Delivered
+ORD-10305,2025-08-22,Consumer,CA,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,Website,Delivered
+ORD-10306,2025-01-23,Corporate,FL,LED Strip Lights,Home,1,22.0,0,22.0,4.99,12.01,Website,Cancelled
+ORD-10307,2026-01-15,Consumer,FL,Phone Case,Accessories,3,12.5,0.2,30.0,0,30.0,Website,Returned
+ORD-10308,2025-11-19,Consumer,FL,Water Bottle,Sports,2,18.5,0,37.0,6.99,30.009999999999998,Instagram,Delivered
+ORD-10309,2025-08-19,Corporate,NY,Wireless Earbuds,Electronics,3,29.99,0.1,80.97,0,80.97,Amazon,Delivered
+ORD-10310,2025-10-23,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,0,11.99,Website,Delivered
+ORD-10311,2025-09-28,Corporate,TX,Phone Case,Accessories,1,12.5,0.15,10.62,6.99,3.629999999999999,TikTok,Delivered
+ORD-10312,2025-08-23,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,14.999999999999998,Amazon,Delivered
+ORD-10313,2025-06-10,Consumer,GA,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Website,Delivered
+ORD-10314,2025-11-02,Consumer,NY,Yoga Mat,Sports,2,24.0,0.05,45.6,6.99,38.61,Instagram,Cancelled
+ORD-10315,2025-10-12,Consumer,CA,Notebook Set,Office,3,9.99,0.15,25.47,0,25.47,Website,Delivered
+ORD-10316,2025-01-05,Consumer,FL,LED Strip Lights,Home,2,22.0,0,44.0,4.99,39.01,Instagram,Returned
+ORD-10317,2025-12-17,Consumer,NY,Notebook Set,Office,3,9.99,0.05,28.47,6.99,21.479999999999997,Instagram,Delivered
+ORD-10318,2026-01-25,Consumer,NC,Yoga Mat,Sports,1,24.0,0.1,21.6,0,16.6,Website,Returned
+ORD-10319,2025-10-17,Corporate,CA,Desk Lamp,Home,1,32.0,0.2,25.6,6.99,18.61,Website,Returned
+ORD-10320,2025-10-05,Consumer,CA,Phone Case,Accessories,1,12.5,0.2,10.0,4.99,5.01,Instagram,Delivered
+ORD-10321,2025-08-19,Consumer,TX,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,0,11.99,Website,Delivered
+ORD-10322,2025-12-30,Corporate,NY,Phone Case,Accessories,1,12.5,0,12.5,4.99,7.51,Website,Delivered
+ORD-10323,2025-09-30,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,4.99,8.5,Amazon,Delivered
+ORD-10324,2025-03-11,Consumer,FL,Desk Lamp,Home,2,32.0,0,64.0,0,64.0,Amazon,Delivered
+ORD-10325,2025-05-07,Corporate,NY,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,TikTok,Cancelled
+ORD-10326,2025-08-20,Consumer,FL,Desk Lamp,Home,3,32.0,0.05,91.2,6.99,84.21000000000001,Amazon,Delivered
+ORD-10327,2025-10-25,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,4.99,15.909999999999998,Instagram,Cancelled
+ORD-10328,2025-04-22,Consumer,GA,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,6.99,1.8100000000000005,Website,Delivered
+ORD-10329,2025-10-17,Consumer,TX,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,0,19.8,Website,Delivered
+ORD-10330,2025-01-09,Consumer,FL,Phone Case,Accessories,3,12.5,0.2,30.0,6.99,23.009999999999998,Website,Delivered
+ORD-10331,2025-03-23,Consumer,FL,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,4.99,39.98,Website,Delivered
+ORD-10332,2025-01-27,Consumer,NC,Running Socks 3pk,Apparel,3,11.0,0.15,28.05,0,28.05,Website,Delivered
+ORD-10333,2025-04-20,Consumer,FL,Phone Case,Accessories,3,12.5,0,37.5,0,32.5,Website,Returned
+ORD-10334,2025-03-03,Consumer,FL,LED Strip Lights,Home,1,22.0,0,22.0,4.99,17.009999999999998,Website,Delivered
+ORD-10335,2025-02-22,Consumer,TX,Phone Case,Accessories,3,12.5,0.2,30.0,0,30.0,Website,Delivered
+ORD-10336,2025-02-05,Corporate,FL,Yoga Mat,Sports,3,24.0,0.15,61.2,0,61.2,Website,Delivered
+ORD-10337,2025-07-30,Corporate,CA,Running Socks 3pk,Apparel,3,11.0,0,33.0,0,33.0,Website,Delivered
+ORD-10338,2025-06-29,Consumer,TX,Yoga Mat,Sports,1,24.0,0.1,21.6,6.99,14.610000000000001,Website,Delivered
+ORD-10339,2026-02-03,Corporate,FL,Phone Case,Accessories,1,12.5,0.1,11.25,4.99,6.26,Amazon,Delivered
+ORD-10340,2026-01-18,Consumer,NC,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,26.98,Website,Delivered
+ORD-10341,2025-11-23,Corporate,FL,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Website,Delivered
+ORD-10342,2025-07-07,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,6.99,3.459999999999999,Website,Delivered
+ORD-10343,2025-04-21,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,14.999999999999998,Instagram,Returned
+ORD-10344,2025-08-05,Corporate,NY,Desk Lamp,Home,3,32.0,0.15,81.6,6.99,69.61,TikTok,Returned
+ORD-10345,2025-06-08,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Returned
+ORD-10346,2025-06-08,Corporate,NY,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,0,19.8,Website,Delivered
+ORD-10347,2025-08-21,Corporate,FL,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,0,14.24,Amazon,Cancelled
+ORD-10348,2025-12-26,Consumer,FL,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Returned
+ORD-10349,2025-07-10,Consumer,NC,Notebook Set,Office,3,9.99,0,29.97,0,29.97,Website,Delivered
+ORD-10350,2025-05-15,Corporate,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,TikTok,Delivered
+ORD-10351,2025-07-08,Consumer,NC,Wireless Earbuds,Electronics,2,29.99,0.2,47.98,0,47.98,TikTok,Cancelled
+ORD-10352,2025-01-23,Consumer,GA,Phone Case,Accessories,1,12.5,0.15,10.62,0,5.62,Website,Delivered
+ORD-10353,2025-10-11,Corporate,NY,Yoga Mat,Sports,1,24.0,0.2,19.2,0,19.2,Website,Delivered
+ORD-10354,2025-10-20,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,0,8.8,Website,Delivered
+ORD-10355,2025-02-05,Consumer,NC,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,6.99,22.990000000000002,Website,Delivered
+ORD-10356,2025-07-08,Consumer,NC,Phone Case,Accessories,2,12.5,0.05,23.75,0,23.75,Website,Cancelled
+ORD-10357,2025-10-30,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0.05,18.99,4.99,13.999999999999998,TikTok,Delivered
+ORD-10358,2025-04-30,Corporate,TX,Yoga Mat,Sports,1,24.0,0.05,22.8,0,22.8,Amazon,Delivered
+ORD-10359,2026-01-13,Corporate,NC,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,6.99,-3.19,TikTok,Delivered
+ORD-10360,2025-12-31,Consumer,FL,Water Bottle,Sports,2,18.5,0,37.0,0,32.0,Website,Returned
+ORD-10361,2026-01-18,Consumer,FL,Water Bottle,Sports,3,18.5,0,55.5,6.99,48.51,Amazon,Delivered
+ORD-10362,2025-08-11,Corporate,FL,Phone Case,Accessories,2,12.5,0.1,22.5,0,22.5,Website,Delivered
+ORD-10363,2025-06-12,Consumer,NC,Water Bottle,Sports,3,18.5,0.2,44.4,4.99,39.41,Website,Delivered
+ORD-10364,2025-03-26,Consumer,CA,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Returned
+ORD-10365,2025-08-26,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,4.99,0.46,Amazon,Delivered
+ORD-10366,2025-03-17,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,14.999999999999998,Instagram,Returned
+ORD-10367,2025-03-31,Consumer,NY,Wireless Earbuds,Electronics,3,29.99,0,89.97,4.99,84.98,TikTok,Cancelled
+ORD-10368,2025-02-22,Consumer,FL,Notebook Set,Office,1,9.99,0,9.99,6.99,-2.0,Website,Delivered
+ORD-10369,2025-10-26,Corporate,NC,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Website,Delivered
+ORD-10370,2025-03-07,Consumer,TX,Phone Case,Accessories,1,12.5,0.15,10.62,6.99,-1.37,Instagram,Delivered
+ORD-10371,2025-09-12,Consumer,NY,Yoga Mat,Sports,2,24.0,0.05,45.6,6.99,38.61,Website,Delivered
+ORD-10372,2025-08-17,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,TikTok,Delivered
+ORD-10373,2025-02-01,Consumer,NC,Desk Lamp,Home,2,32.0,0.05,60.8,6.99,53.809999999999995,Instagram,Delivered
+ORD-10374,2025-07-15,Corporate,TX,Notebook Set,Office,1,9.99,0.15,8.49,0,8.49,Instagram,Delivered
+ORD-10375,2025-05-19,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,32.989999999999995,Website,Delivered
+ORD-10376,2025-09-29,Consumer,GA,Desk Lamp,Home,1,32.0,0.2,25.6,6.99,18.61,Website,Delivered
+ORD-10377,2026-01-27,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,0,13.49,Website,Delivered
+ORD-10378,2025-10-30,Consumer,TX,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,TikTok,Delivered
+ORD-10379,2025-10-05,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,6.99,9.0,Website,Delivered
+ORD-10380,2025-09-27,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,TikTok,Delivered
+ORD-10381,2025-06-15,Consumer,FL,Yoga Mat,Sports,1,24.0,0.15,20.4,0,15.4,Amazon,Delivered
+ORD-10382,2025-02-07,Consumer,NY,Phone Case,Accessories,2,12.5,0.2,20.0,4.99,15.01,Website,Delivered
+ORD-10383,2025-11-24,Consumer,TX,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,4.01,TikTok,Cancelled
+ORD-10384,2025-07-13,Consumer,NC,Protein Bar Box,Grocery,1,19.99,0,19.99,0,14.99,Amazon,Delivered
+ORD-10385,2025-04-04,Corporate,TX,Protein Bar Box,Grocery,2,19.99,0.2,31.98,0,31.98,TikTok,Delivered
+ORD-10386,2025-06-19,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0.05,18.99,0,18.99,Website,Delivered
+ORD-10387,2025-08-17,Consumer,NC,Phone Case,Accessories,3,12.5,0.15,31.88,4.99,26.89,Amazon,Delivered
+ORD-10388,2026-01-04,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,0,8.8,Amazon,Delivered
+ORD-10389,2025-06-29,Corporate,NY,Yoga Mat,Sports,2,24.0,0.05,45.6,6.99,33.61,Instagram,Returned
+ORD-10390,2025-01-18,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,0,14.24,Website,Delivered
+ORD-10391,2026-01-10,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,0,10.45,TikTok,Delivered
+ORD-10392,2025-11-07,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,0,45.98,Website,Delivered
+ORD-10393,2025-12-05,Consumer,NC,Coffee Beans 1lb,Grocery,2,14.99,0.15,25.48,4.99,20.490000000000002,Website,Delivered
+ORD-10394,2025-03-20,Consumer,TX,Protein Bar Box,Grocery,2,19.99,0.2,31.98,6.99,19.99,Website,Delivered
+ORD-10395,2025-01-14,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Website,Delivered
+ORD-10396,2025-08-30,Consumer,NC,Phone Case,Accessories,1,12.5,0.2,10.0,6.99,-1.99,TikTok,Delivered
+ORD-10397,2025-04-06,Consumer,FL,Yoga Mat,Sports,1,24.0,0.05,22.8,4.99,17.810000000000002,Instagram,Delivered
+ORD-10398,2025-03-19,Corporate,FL,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,0,8.49,Website,Returned
+ORD-10399,2025-07-18,Corporate,NY,Water Bottle,Sports,2,18.5,0,37.0,0,37.0,Amazon,Delivered
+ORD-10400,2025-02-10,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.05,18.99,4.99,13.999999999999998,TikTok,Returned
+ORD-10401,2025-03-30,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0,19.99,6.99,12.999999999999998,Website,Delivered
+ORD-10402,2025-04-14,Corporate,FL,Water Bottle,Sports,1,18.5,0.15,15.72,6.99,8.73,Website,Delivered
+ORD-10403,2025-10-10,Consumer,NC,Phone Case,Accessories,1,12.5,0.05,11.88,6.99,4.890000000000001,Website,Cancelled
+ORD-10404,2025-02-27,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0.1,35.98,6.99,23.99,TikTok,Returned
+ORD-10405,2025-05-27,Corporate,TX,Phone Case,Accessories,1,12.5,0.1,11.25,0,11.25,Website,Delivered
+ORD-10406,2025-01-20,Consumer,NC,LED Strip Lights,Home,2,22.0,0.1,39.6,6.99,32.61,TikTok,Returned
+ORD-10407,2025-12-20,Consumer,FL,Water Bottle,Sports,1,18.5,0.05,17.57,4.99,12.58,Website,Delivered
+ORD-10408,2025-06-09,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,4.99,19.0,Amazon,Delivered
+ORD-10409,2026-02-01,Consumer,NC,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,6.99,8.0,TikTok,Cancelled
+ORD-10410,2025-07-28,Corporate,CA,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Website,Delivered
+ORD-10411,2025-12-30,Corporate,NY,Notebook Set,Office,1,9.99,0,9.99,4.99,0.0,TikTok,Returned
+ORD-10412,2025-01-30,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Website,Cancelled
+ORD-10413,2025-09-16,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,6.99,8.0,Website,Delivered
+ORD-10414,2025-08-31,Corporate,TX,LED Strip Lights,Home,2,22.0,0.05,41.8,0,41.8,Website,Cancelled
+ORD-10415,2025-01-26,Consumer,GA,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Amazon,Delivered
+ORD-10416,2025-09-20,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.15,12.74,6.99,5.75,Website,Cancelled
+ORD-10417,2025-04-25,Consumer,NC,Yoga Mat,Sports,2,24.0,0.2,38.4,0,38.4,Amazon,Cancelled
+ORD-10418,2025-08-24,Consumer,GA,Desk Lamp,Home,2,32.0,0.05,60.8,4.99,55.809999999999995,Amazon,Returned
+ORD-10419,2025-01-04,Corporate,TX,Protein Bar Box,Grocery,2,19.99,0.1,35.98,0,35.98,TikTok,Returned
+ORD-10420,2025-09-04,Consumer,TX,Desk Lamp,Home,1,32.0,0.15,27.2,0,27.2,Amazon,Delivered
+ORD-10421,2025-04-07,Consumer,GA,Desk Lamp,Home,1,32.0,0.15,27.2,4.99,22.21,TikTok,Delivered
+ORD-10422,2025-12-02,Consumer,NC,Running Socks 3pk,Apparel,3,11.0,0,33.0,0,33.0,Instagram,Delivered
+ORD-10423,2025-06-25,Corporate,GA,Water Bottle,Sports,3,18.5,0,55.5,0,55.5,Amazon,Delivered
+ORD-10424,2025-12-03,Corporate,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Instagram,Delivered
+ORD-10425,2025-12-15,Consumer,FL,Desk Lamp,Home,3,32.0,0.2,76.8,0,76.8,Website,Cancelled
+ORD-10426,2025-07-10,Consumer,NC,Desk Lamp,Home,2,32.0,0.2,51.2,4.99,46.21,Website,Delivered
+ORD-10427,2025-08-30,Consumer,FL,Wireless Earbuds,Electronics,3,29.99,0.1,80.97,0,80.97,Instagram,Returned
+ORD-10428,2025-03-12,Consumer,TX,Desk Lamp,Home,2,32.0,0,64.0,0,64.0,TikTok,Delivered
+ORD-10429,2026-02-03,Consumer,CA,Yoga Mat,Sports,1,24.0,0.2,19.2,0,19.2,Website,Delivered
+ORD-10430,2025-04-18,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Website,Delivered
+ORD-10431,2025-07-26,Consumer,CA,Protein Bar Box,Grocery,2,19.99,0.15,33.98,6.99,26.989999999999995,Website,Returned
+ORD-10432,2025-06-14,Corporate,GA,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,39.97,Website,Cancelled
+ORD-10433,2025-06-09,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.15,12.74,4.99,7.75,TikTok,Delivered
+ORD-10434,2025-06-02,Consumer,CA,Yoga Mat,Sports,1,24.0,0.2,19.2,0,19.2,TikTok,Returned
+ORD-10435,2025-06-25,Consumer,TX,Running Socks 3pk,Apparel,2,11.0,0.15,18.7,0,18.7,Website,Delivered
+ORD-10436,2025-04-19,Corporate,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Website,Delivered
+ORD-10437,2025-07-12,Corporate,NC,Running Socks 3pk,Apparel,3,11.0,0.15,28.05,0,28.05,TikTok,Delivered
+ORD-10438,2025-12-01,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.15,16.99,0,16.99,Instagram,Delivered
+ORD-10439,2025-08-31,Corporate,FL,Water Bottle,Sports,1,18.5,0.1,16.65,4.99,11.659999999999998,Amazon,Cancelled
+ORD-10440,2025-12-06,Corporate,NC,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,0,28.49,Amazon,Delivered
+ORD-10441,2025-05-25,Consumer,FL,Water Bottle,Sports,1,18.5,0.1,16.65,0,16.65,TikTok,Delivered
+ORD-10442,2025-12-27,Consumer,NC,Desk Lamp,Home,2,32.0,0,64.0,4.99,59.01,TikTok,Delivered
+ORD-10443,2025-05-01,Consumer,FL,Coffee Beans 1lb,Grocery,3,14.99,0.05,42.72,4.99,37.73,Website,Returned
+ORD-10444,2026-01-06,Corporate,FL,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Amazon,Delivered
+ORD-10445,2025-01-26,Consumer,FL,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,Website,Delivered
+ORD-10446,2025-02-18,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.15,18.7,0,18.7,Amazon,Cancelled
+ORD-10447,2025-11-15,Consumer,FL,Yoga Mat,Sports,1,24.0,0,24.0,6.99,17.009999999999998,Website,Delivered
+ORD-10448,2025-05-20,Consumer,CA,Phone Case,Accessories,2,12.5,0.05,23.75,6.99,16.759999999999998,Amazon,Delivered
+ORD-10449,2025-03-23,Consumer,NY,Phone Case,Accessories,1,12.5,0.15,10.62,0,10.62,Instagram,Returned
+ORD-10450,2026-02-03,Consumer,FL,LED Strip Lights,Home,1,22.0,0.1,19.8,6.99,12.81,Amazon,Delivered
+ORD-10451,2025-08-14,Consumer,FL,LED Strip Lights,Home,2,22.0,0,44.0,6.99,37.01,Website,Delivered
+ORD-10452,2025-12-09,Consumer,FL,Notebook Set,Office,3,9.99,0.1,26.97,0,26.97,Amazon,Delivered
+ORD-10453,2025-03-18,Corporate,FL,LED Strip Lights,Home,1,22.0,0.15,18.7,6.99,6.71,Website,Returned
+ORD-10454,2025-02-08,Consumer,TX,LED Strip Lights,Home,2,22.0,0.2,35.2,0,35.2,Website,Delivered
+ORD-10455,2025-07-26,Consumer,FL,Notebook Set,Office,1,9.99,0.1,8.99,6.99,2.0,TikTok,Delivered
+ORD-10456,2025-03-02,Consumer,FL,Phone Case,Accessories,2,12.5,0.05,23.75,4.99,13.76,Instagram,Delivered
+ORD-10457,2025-11-06,Corporate,NC,Notebook Set,Office,2,9.99,0,19.98,0,19.98,TikTok,Delivered
+ORD-10458,2025-04-25,Consumer,TX,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,TikTok,Returned
+ORD-10459,2026-01-02,Consumer,FL,LED Strip Lights,Home,3,22.0,0.15,56.1,4.99,46.11,Amazon,Delivered
+ORD-10460,2025-10-08,Corporate,TX,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,Website,Delivered
+ORD-10461,2025-02-24,Consumer,GA,LED Strip Lights,Home,1,22.0,0.2,17.6,6.99,10.610000000000001,Instagram,Delivered
+ORD-10462,2025-02-25,Consumer,FL,LED Strip Lights,Home,1,22.0,0.15,18.7,4.99,13.709999999999999,Amazon,Returned
+ORD-10463,2025-09-13,Consumer,FL,Phone Case,Accessories,2,12.5,0.05,23.75,0,23.75,Instagram,Returned
+ORD-10464,2025-12-21,Corporate,FL,LED Strip Lights,Home,2,22.0,0.2,35.2,0,35.2,Website,Delivered
+ORD-10465,2025-09-16,Consumer,NY,Water Bottle,Sports,3,18.5,0.1,49.95,4.99,44.96,Amazon,Delivered
+ORD-10466,2025-08-20,Consumer,FL,Desk Lamp,Home,2,32.0,0,64.0,4.99,59.01,Amazon,Cancelled
+ORD-10467,2025-12-31,Corporate,GA,Notebook Set,Office,1,9.99,0.2,7.99,4.99,3.0,TikTok,Cancelled
+ORD-10468,2025-12-30,Corporate,FL,Desk Lamp,Home,3,32.0,0,96.0,0,96.0,Amazon,Cancelled
+ORD-10469,2025-10-15,Consumer,NY,Running Socks 3pk,Apparel,3,11.0,0,33.0,4.99,28.009999999999998,TikTok,Delivered
+ORD-10470,2025-01-13,Consumer,FL,Water Bottle,Sports,1,18.5,0.1,16.65,0,11.65,Website,Delivered
+ORD-10471,2025-03-16,Consumer,NC,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,TikTok,Delivered
+ORD-10472,2026-01-16,Corporate,NY,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Amazon,Delivered
+ORD-10473,2025-12-17,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0.05,56.98,6.99,44.99,Website,Delivered
+ORD-10474,2025-11-21,Corporate,TX,Protein Bar Box,Grocery,2,19.99,0.2,31.98,0,31.98,TikTok,Cancelled
+ORD-10475,2025-05-31,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,0,15.99,Website,Delivered
+ORD-10476,2025-07-13,Consumer,NY,Yoga Mat,Sports,3,24.0,0.1,64.8,0,64.8,Website,Delivered
+ORD-10477,2025-01-03,Consumer,CA,Yoga Mat,Sports,2,24.0,0.2,38.4,4.99,33.41,Website,Delivered
+ORD-10478,2026-02-01,Corporate,NC,Yoga Mat,Sports,1,24.0,0.1,21.6,0,21.6,TikTok,Returned
+ORD-10479,2025-09-27,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,4.99,3.8100000000000005,TikTok,Delivered
+ORD-10480,2025-02-17,Consumer,GA,Water Bottle,Sports,2,18.5,0.1,33.3,6.99,26.309999999999995,Amazon,Delivered
+ORD-10481,2026-01-21,Corporate,CA,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,11.0,Amazon,Delivered
+ORD-10482,2025-05-04,Corporate,GA,Phone Case,Accessories,3,12.5,0,37.5,6.99,30.509999999999998,Amazon,Delivered
+ORD-10483,2025-10-04,Corporate,NC,Water Bottle,Sports,1,18.5,0.05,17.57,4.99,7.58,TikTok,Delivered
+ORD-10484,2025-01-23,Consumer,GA,Notebook Set,Office,2,9.99,0.05,18.98,6.99,11.99,Website,Delivered
+ORD-10485,2025-11-17,Consumer,GA,Yoga Mat,Sports,2,24.0,0.1,43.2,0,43.2,Website,Cancelled
+ORD-10486,2025-11-28,Consumer,FL,Water Bottle,Sports,1,18.5,0,18.5,6.99,6.51,Amazon,Delivered
+ORD-10487,2025-04-02,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Website,Delivered
+ORD-10488,2025-08-10,Consumer,FL,Water Bottle,Sports,2,18.5,0.05,35.15,6.99,28.159999999999997,Website,Returned
+ORD-10489,2026-01-23,Corporate,FL,Wireless Earbuds,Electronics,3,29.99,0.15,76.47,0,76.47,Website,Delivered
+ORD-10490,2025-11-07,Consumer,NC,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,Instagram,Delivered
+ORD-10491,2025-03-22,Corporate,GA,Water Bottle,Sports,3,18.5,0,55.5,6.99,43.51,Instagram,Returned
+ORD-10492,2025-12-13,Corporate,TX,Desk Lamp,Home,3,32.0,0,96.0,4.99,91.01,Website,Returned
+ORD-10493,2025-01-03,Corporate,NY,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Website,Delivered
+ORD-10494,2025-04-19,Consumer,FL,Coffee Beans 1lb,Grocery,3,14.99,0.15,38.22,4.99,33.23,Website,Returned
+ORD-10495,2025-12-10,Corporate,FL,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,TikTok,Delivered
+ORD-10496,2025-05-09,Consumer,GA,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Instagram,Delivered
+ORD-10497,2025-02-21,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,9.35,Website,Delivered
+ORD-10498,2025-12-22,Corporate,FL,LED Strip Lights,Home,1,22.0,0.1,19.8,4.99,14.81,Website,Delivered
+ORD-10499,2025-05-07,Consumer,NY,Water Bottle,Sports,1,18.5,0,18.5,4.99,13.51,Website,Delivered
+ORD-10500,2025-07-03,Consumer,CA,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,6.99,13.909999999999998,Website,Cancelled
+ORD-10501,2025-03-13,Corporate,GA,Protein Bar Box,Grocery,1,19.99,0.2,15.99,4.99,11.0,Amazon,Delivered
+ORD-10502,2025-10-25,Corporate,NY,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Website,Delivered
+ORD-10503,2025-12-01,Consumer,TX,Notebook Set,Office,1,9.99,0.1,8.99,6.99,2.0,TikTok,Cancelled
+ORD-10504,2025-07-23,Consumer,FL,Desk Lamp,Home,1,32.0,0.05,30.4,0,30.4,TikTok,Cancelled
+ORD-10505,2025-03-23,Consumer,FL,Yoga Mat,Sports,2,24.0,0,48.0,6.99,41.01,Instagram,Delivered
+ORD-10506,2025-04-29,Consumer,NC,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,6.99,17.0,Website,Cancelled
+ORD-10507,2025-07-18,Consumer,CA,Coffee Beans 1lb,Grocery,2,14.99,0.2,23.98,4.99,18.990000000000002,Website,Cancelled
+ORD-10508,2026-01-15,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,4.99,4.359999999999999,Instagram,Delivered
+ORD-10509,2025-09-22,Consumer,NY,Protein Bar Box,Grocery,3,19.99,0.2,47.98,0,47.98,Website,Returned
+ORD-10510,2025-09-07,Consumer,FL,Water Bottle,Sports,1,18.5,0.2,14.8,4.99,9.81,Website,Delivered
+ORD-10511,2025-04-19,Consumer,FL,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,TikTok,Cancelled
+ORD-10512,2025-06-19,Corporate,FL,Phone Case,Accessories,3,12.5,0,37.5,6.99,30.509999999999998,Instagram,Delivered
+ORD-10513,2025-01-12,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,6.99,17.99,TikTok,Delivered
+ORD-10514,2025-10-21,Consumer,FL,Yoga Mat,Sports,3,24.0,0.1,64.8,0,64.8,Website,Returned
+ORD-10515,2026-01-04,Corporate,NC,Water Bottle,Sports,2,18.5,0.1,33.3,0,33.3,Website,Delivered
+ORD-10516,2025-03-29,Consumer,NY,Protein Bar Box,Grocery,2,19.99,0.2,31.98,6.99,24.990000000000002,TikTok,Delivered
+ORD-10517,2025-03-27,Corporate,TX,Protein Bar Box,Grocery,3,19.99,0.1,53.97,4.99,48.98,TikTok,Returned
+ORD-10518,2025-03-09,Consumer,FL,Phone Case,Accessories,1,12.5,0.05,11.88,6.99,4.890000000000001,TikTok,Cancelled
+ORD-10519,2025-04-01,Consumer,FL,Water Bottle,Sports,1,18.5,0.1,16.65,0,16.65,TikTok,Returned
+ORD-10520,2025-11-05,Corporate,FL,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Amazon,Cancelled
+ORD-10521,2025-01-23,Corporate,NY,Water Bottle,Sports,2,18.5,0.05,35.15,4.99,30.159999999999997,Instagram,Delivered
+ORD-10522,2025-08-06,Consumer,NC,Running Socks 3pk,Apparel,2,11.0,0.2,17.6,0,17.6,Website,Delivered
+ORD-10523,2025-05-12,Consumer,FL,Desk Lamp,Home,2,32.0,0.1,57.6,6.99,50.61,Website,Returned
+ORD-10524,2025-07-12,Corporate,GA,Notebook Set,Office,1,9.99,0.1,8.99,0,8.99,Website,Delivered
+ORD-10525,2025-11-30,Corporate,NC,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,4.01,TikTok,Delivered
+ORD-10526,2025-12-15,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0.1,17.99,4.99,12.999999999999998,TikTok,Delivered
+ORD-10527,2025-05-10,Consumer,TX,Yoga Mat,Sports,1,24.0,0.1,21.6,6.99,14.610000000000001,Instagram,Cancelled
+ORD-10528,2025-08-17,Corporate,FL,Yoga Mat,Sports,3,24.0,0,72.0,0,67.0,TikTok,Delivered
+ORD-10529,2025-03-24,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,0,19.8,Website,Delivered
+ORD-10530,2025-05-15,Consumer,TX,Protein Bar Box,Grocery,2,19.99,0,39.98,0,34.98,Website,Cancelled
+ORD-10531,2025-12-31,Corporate,FL,Water Bottle,Sports,2,18.5,0.1,33.3,4.99,28.309999999999995,Website,Cancelled
+ORD-10532,2025-12-03,Corporate,NC,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,TikTok,Returned
+ORD-10533,2025-12-12,Consumer,TX,Notebook Set,Office,3,9.99,0,29.97,0,29.97,Website,Delivered
+ORD-10534,2025-06-30,Corporate,NY,Phone Case,Accessories,1,12.5,0.2,10.0,6.99,3.01,Website,Returned
+ORD-10535,2025-02-16,Corporate,NC,Wireless Earbuds,Electronics,3,29.99,0.15,76.47,0,76.47,TikTok,Returned
+ORD-10536,2025-04-26,Corporate,GA,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,4.99,3.8100000000000005,Instagram,Returned
+ORD-10537,2025-09-17,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Website,Delivered
+ORD-10538,2025-12-22,Consumer,NY,Notebook Set,Office,1,9.99,0.1,8.99,4.99,4.0,Website,Delivered
+ORD-10539,2025-09-04,Consumer,NC,LED Strip Lights,Home,3,22.0,0.05,62.7,0,57.7,Amazon,Delivered
+ORD-10540,2025-09-22,Corporate,FL,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,4.99,9.25,Website,Delivered
+ORD-10541,2025-02-08,Corporate,FL,Desk Lamp,Home,1,32.0,0.05,30.4,4.99,25.409999999999997,Website,Delivered
+ORD-10542,2025-09-13,Corporate,GA,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Delivered
+ORD-10543,2025-11-13,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,Website,Delivered
+ORD-10544,2025-09-04,Consumer,TX,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,TikTok,Delivered
+ORD-10545,2025-07-23,Consumer,FL,LED Strip Lights,Home,1,22.0,0.2,17.6,4.99,7.61,Instagram,Delivered
+ORD-10546,2025-07-21,Corporate,FL,Notebook Set,Office,1,9.99,0.1,8.99,4.99,4.0,Website,Cancelled
+ORD-10547,2025-01-07,Corporate,GA,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Website,Delivered
+ORD-10548,2025-04-06,Corporate,NC,Running Socks 3pk,Apparel,2,11.0,0.2,17.6,4.99,12.610000000000001,Instagram,Returned
+ORD-10549,2025-08-06,Consumer,NY,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,4.01,Website,Delivered
+ORD-10550,2025-10-20,Consumer,GA,Water Bottle,Sports,1,18.5,0.05,17.57,0,17.57,Amazon,Delivered
+ORD-10551,2025-04-11,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,6.99,21.490000000000002,Website,Delivered
+ORD-10552,2025-09-07,Consumer,NC,Water Bottle,Sports,2,18.5,0,37.0,4.99,32.01,TikTok,Delivered
+ORD-10553,2025-01-31,Consumer,NC,Water Bottle,Sports,1,18.5,0.15,15.72,0,15.72,Amazon,Delivered
+ORD-10554,2025-07-04,Consumer,NC,LED Strip Lights,Home,3,22.0,0,66.0,4.99,61.01,Instagram,Delivered
+ORD-10555,2025-10-23,Corporate,FL,Running Socks 3pk,Apparel,3,11.0,0.1,29.7,0,29.7,Website,Delivered
+ORD-10556,2026-02-01,Corporate,CA,Running Socks 3pk,Apparel,3,11.0,0.1,29.7,6.99,22.71,Instagram,Returned
+ORD-10557,2025-03-27,Corporate,TX,Desk Lamp,Home,2,32.0,0.15,54.4,0,54.4,TikTok,Returned
+ORD-10558,2025-06-25,Consumer,TX,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Cancelled
+ORD-10559,2025-05-19,Consumer,TX,Desk Lamp,Home,2,32.0,0.15,54.4,6.99,47.41,TikTok,Delivered
+ORD-10560,2025-03-06,Corporate,GA,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Amazon,Cancelled
+ORD-10561,2025-02-22,Consumer,FL,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Instagram,Returned
+ORD-10562,2025-09-26,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,6.99,17.0,Website,Delivered
+ORD-10563,2026-01-13,Consumer,CA,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Returned
+ORD-10564,2025-06-16,Consumer,CA,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,TikTok,Delivered
+ORD-10565,2025-10-30,Corporate,CA,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Amazon,Returned
+ORD-10566,2025-06-27,Consumer,GA,Water Bottle,Sports,2,18.5,0.15,31.45,4.99,26.46,Instagram,Delivered
+ORD-10567,2025-06-05,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Website,Delivered
+ORD-10568,2025-12-19,Consumer,CA,Desk Lamp,Home,2,32.0,0.1,57.6,0,57.6,Instagram,Delivered
+ORD-10569,2025-10-08,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0.2,15.99,0,15.99,TikTok,Delivered
+ORD-10570,2025-07-13,Consumer,NC,Water Bottle,Sports,1,18.5,0,18.5,6.99,6.51,Amazon,Delivered
+ORD-10571,2025-05-26,Corporate,NC,Notebook Set,Office,2,9.99,0.2,15.98,4.99,10.99,Website,Delivered
+ORD-10572,2025-11-13,Consumer,NC,Yoga Mat,Sports,1,24.0,0,24.0,6.99,17.009999999999998,Instagram,Delivered
+ORD-10573,2025-10-01,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,11.0,Website,Delivered
+ORD-10574,2025-04-30,Consumer,FL,Yoga Mat,Sports,3,24.0,0.05,68.4,0,63.4,Website,Delivered
+ORD-10575,2025-07-10,Consumer,FL,Water Bottle,Sports,1,18.5,0.2,14.8,6.99,7.8100000000000005,Website,Delivered
+ORD-10576,2025-04-03,Consumer,NC,Desk Lamp,Home,2,32.0,0,64.0,6.99,57.01,Website,Delivered
+ORD-10577,2025-05-07,Corporate,FL,Coffee Beans 1lb,Grocery,2,14.99,0.2,23.98,6.99,16.990000000000002,Amazon,Delivered
+ORD-10578,2025-07-19,Corporate,NC,Notebook Set,Office,3,9.99,0,29.97,6.99,22.979999999999997,Website,Cancelled
+ORD-10579,2025-05-10,Consumer,NC,Wireless Earbuds,Electronics,3,29.99,0.1,80.97,0,80.97,Website,Cancelled
+ORD-10580,2025-06-16,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,6.99,8.0,TikTok,Delivered
+ORD-10581,2025-10-25,Corporate,CA,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Delivered
+ORD-10582,2025-02-16,Corporate,TX,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Amazon,Delivered
+ORD-10583,2025-12-26,Corporate,FL,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,0,20.49,Website,Delivered
+ORD-10584,2025-08-13,Corporate,GA,Notebook Set,Office,3,9.99,0.2,23.98,4.99,13.99,Instagram,Delivered
+ORD-10585,2025-12-28,Consumer,NC,Yoga Mat,Sports,1,24.0,0,24.0,6.99,17.009999999999998,Instagram,Delivered
+ORD-10586,2025-06-15,Corporate,CA,Protein Bar Box,Grocery,1,19.99,0.1,17.99,4.99,12.999999999999998,TikTok,Returned
+ORD-10587,2025-08-19,Consumer,NC,Yoga Mat,Sports,1,24.0,0.1,21.6,0,21.6,Instagram,Delivered
+ORD-10588,2025-01-10,Corporate,TX,Notebook Set,Office,2,9.99,0.15,16.98,0,16.98,Website,Delivered
+ORD-10589,2025-04-08,Corporate,CA,Phone Case,Accessories,3,12.5,0.1,33.75,6.99,26.759999999999998,Website,Returned
+ORD-10590,2025-02-26,Consumer,FL,Desk Lamp,Home,1,32.0,0.05,30.4,4.99,20.41,Website,Delivered
+ORD-10591,2025-04-09,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Instagram,Cancelled
+ORD-10592,2025-01-26,Consumer,GA,LED Strip Lights,Home,2,22.0,0.1,39.6,4.99,34.61,Website,Delivered
+ORD-10593,2025-08-28,Corporate,FL,Coffee Beans 1lb,Grocery,3,14.99,0.05,42.72,0,42.72,Amazon,Delivered
+ORD-10594,2025-09-28,Consumer,FL,Running Socks 3pk,Apparel,3,11.0,0,33.0,4.99,28.009999999999998,Website,Delivered
+ORD-10595,2025-09-30,Consumer,GA,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Amazon,Delivered
+ORD-10596,2026-01-18,Consumer,TX,Protein Bar Box,Grocery,3,19.99,0,59.97,6.99,52.98,Amazon,Cancelled
+ORD-10597,2025-10-09,Consumer,TX,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,TikTok,Returned
+ORD-10598,2025-07-10,Consumer,NY,LED Strip Lights,Home,1,22.0,0,22.0,4.99,17.009999999999998,Website,Returned
+ORD-10599,2025-07-12,Corporate,NC,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,26.98,Instagram,Delivered
+ORD-10600,2025-05-26,Corporate,FL,Water Bottle,Sports,1,18.5,0.15,15.72,0,15.72,Website,Delivered
+ORD-10601,2025-01-12,Corporate,NC,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,TikTok,Returned
+ORD-10602,2025-01-20,Consumer,TX,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Website,Delivered
+ORD-10603,2025-06-03,Consumer,NY,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,14.999999999999998,Website,Cancelled
+ORD-10604,2025-03-30,Consumer,FL,Phone Case,Accessories,3,12.5,0,37.5,6.99,30.509999999999998,Website,Delivered
+ORD-10605,2026-01-30,Consumer,TX,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Instagram,Delivered
+ORD-10606,2025-11-21,Corporate,NY,Phone Case,Accessories,1,12.5,0.15,10.62,0,5.62,TikTok,Delivered
+ORD-10607,2025-06-17,Corporate,GA,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,0,19.8,Amazon,Cancelled
+ORD-10608,2025-04-24,Consumer,NC,Water Bottle,Sports,2,18.5,0.2,29.6,0,29.6,Website,Delivered
+ORD-10609,2025-10-08,Consumer,NC,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,0,5.45,TikTok,Delivered
+ORD-10610,2025-09-07,Consumer,GA,Yoga Mat,Sports,1,24.0,0.05,22.8,0,22.8,Amazon,Returned
+ORD-10611,2026-02-02,Consumer,TX,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,TikTok,Delivered
+ORD-10612,2025-07-07,Consumer,GA,Phone Case,Accessories,3,12.5,0.05,35.62,6.99,28.629999999999995,TikTok,Cancelled
+ORD-10613,2025-11-12,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,Website,Delivered
+ORD-10614,2025-02-27,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,0,8.8,TikTok,Delivered
+ORD-10615,2025-06-06,Consumer,CA,Desk Lamp,Home,1,32.0,0,32.0,0,27.0,Website,Cancelled
+ORD-10616,2025-10-08,Consumer,FL,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,Amazon,Delivered
+ORD-10617,2025-05-11,Consumer,FL,Water Bottle,Sports,2,18.5,0.15,31.45,0,31.45,Amazon,Returned
+ORD-10618,2025-02-04,Consumer,NC,Desk Lamp,Home,1,32.0,0.05,30.4,0,30.4,Amazon,Delivered
+ORD-10619,2025-04-29,Consumer,FL,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Instagram,Returned
+ORD-10620,2025-09-14,Consumer,FL,Notebook Set,Office,1,9.99,0,9.99,0,4.99,TikTok,Delivered
+ORD-10621,2025-01-10,Consumer,TX,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,0,20.9,Website,Delivered
+ORD-10622,2025-11-17,Consumer,NY,Notebook Set,Office,1,9.99,0.2,7.99,0,7.99,Website,Returned
+ORD-10623,2025-07-21,Corporate,FL,Desk Lamp,Home,1,32.0,0,32.0,4.99,22.01,Instagram,Returned
+ORD-10624,2025-08-02,Consumer,FL,Protein Bar Box,Grocery,3,19.99,0.15,50.97,0,50.97,Website,Returned
+ORD-10625,2025-04-16,Corporate,FL,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,0,19.8,Amazon,Delivered
+ORD-10626,2025-08-09,Consumer,FL,Yoga Mat,Sports,1,24.0,0.15,20.4,0,20.4,TikTok,Returned
+ORD-10627,2026-01-08,Consumer,TX,Phone Case,Accessories,1,12.5,0,12.5,0,12.5,Instagram,Delivered
+ORD-10628,2025-03-19,Consumer,FL,Desk Lamp,Home,2,32.0,0.15,54.4,4.99,44.41,Website,Returned
+ORD-10629,2025-11-02,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0.1,17.99,0,17.99,Website,Delivered
+ORD-10630,2025-12-31,Corporate,TX,LED Strip Lights,Home,1,22.0,0.1,19.8,6.99,12.81,Instagram,Delivered
+ORD-10631,2025-04-26,Consumer,NY,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Website,Delivered
+ORD-10632,2026-01-23,Consumer,FL,Water Bottle,Sports,1,18.5,0.15,15.72,0,15.72,Instagram,Returned
+ORD-10633,2025-05-07,Consumer,NY,LED Strip Lights,Home,3,22.0,0,66.0,6.99,59.01,TikTok,Cancelled
+ORD-10634,2025-11-10,Corporate,FL,Water Bottle,Sports,3,18.5,0,55.5,6.99,48.51,Instagram,Delivered
+ORD-10635,2026-01-12,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0.1,26.99,6.99,20.0,Amazon,Delivered
+ORD-10636,2025-06-05,Consumer,CA,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,6.99,7.25,Website,Returned
+ORD-10637,2025-08-26,Corporate,CA,Wireless Earbuds,Electronics,3,29.99,0.1,80.97,0,75.97,TikTok,Delivered
+ORD-10638,2025-07-21,Consumer,TX,Yoga Mat,Sports,2,24.0,0.15,40.8,0,40.8,Website,Delivered
+ORD-10639,2025-02-16,Consumer,TX,Protein Bar Box,Grocery,3,19.99,0,59.97,6.99,52.98,Amazon,Delivered
+ORD-10640,2025-11-21,Consumer,FL,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Instagram,Cancelled
+ORD-10641,2025-10-09,Consumer,FL,Notebook Set,Office,2,9.99,0,19.98,6.99,12.99,Website,Returned
+ORD-10642,2025-04-02,Corporate,FL,Yoga Mat,Sports,1,24.0,0.2,19.2,0,19.2,Website,Cancelled
+ORD-10643,2025-03-02,Consumer,GA,LED Strip Lights,Home,1,22.0,0.15,18.7,0,13.7,Website,Delivered
+ORD-10644,2025-10-06,Consumer,CA,LED Strip Lights,Home,2,22.0,0.2,35.2,6.99,28.21,TikTok,Cancelled
+ORD-10645,2025-02-10,Corporate,FL,LED Strip Lights,Home,2,22.0,0.05,41.8,6.99,34.809999999999995,TikTok,Delivered
+ORD-10646,2025-01-26,Consumer,FL,Protein Bar Box,Grocery,3,19.99,0.1,53.97,0,48.97,Website,Delivered
+ORD-10647,2025-06-19,Consumer,FL,Yoga Mat,Sports,1,24.0,0.15,20.4,4.99,10.41,Website,Delivered
+ORD-10648,2025-08-22,Corporate,TX,Desk Lamp,Home,2,32.0,0.15,54.4,0,54.4,Website,Delivered
+ORD-10649,2026-01-24,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,0,10.45,Website,Delivered
+ORD-10650,2025-09-26,Consumer,GA,Desk Lamp,Home,1,32.0,0.1,28.8,6.99,21.810000000000002,Website,Returned
+ORD-10651,2025-08-07,Corporate,TX,Notebook Set,Office,1,9.99,0.05,9.49,4.99,4.5,TikTok,Returned
+ORD-10652,2025-09-24,Corporate,CA,Running Socks 3pk,Apparel,1,11.0,0.1,9.9,6.99,2.91,Website,Returned
+ORD-10653,2025-01-01,Consumer,FL,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,44.97,Website,Cancelled
+ORD-10654,2025-01-24,Consumer,TX,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,6.99,21.490000000000002,Amazon,Delivered
+ORD-10655,2025-05-11,Consumer,NC,Wireless Earbuds,Electronics,3,29.99,0,89.97,4.99,84.98,TikTok,Delivered
+ORD-10656,2025-06-24,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,4.99,20.5,Website,Delivered
+ORD-10657,2025-01-19,Corporate,FL,Running Socks 3pk,Apparel,3,11.0,0.05,31.35,6.99,24.36,Amazon,Delivered
+ORD-10658,2026-01-16,Consumer,NC,Notebook Set,Office,1,9.99,0.05,9.49,6.99,2.5,Amazon,Delivered
+ORD-10659,2025-10-23,Corporate,TX,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Website,Delivered
+ORD-10660,2025-06-23,Consumer,FL,Yoga Mat,Sports,1,24.0,0.2,19.2,0,19.2,Instagram,Delivered
+ORD-10661,2025-12-28,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,4.99,11.0,Website,Delivered
+ORD-10662,2025-04-21,Corporate,NC,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,4.99,9.25,Website,Delivered
+ORD-10663,2025-09-05,Corporate,FL,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,0,14.24,Instagram,Cancelled
+ORD-10664,2025-03-15,Consumer,FL,Notebook Set,Office,1,9.99,0.2,7.99,4.99,3.0,Website,Delivered
+ORD-10665,2025-01-03,Consumer,FL,Water Bottle,Sports,3,18.5,0.2,44.4,0,44.4,TikTok,Delivered
+ORD-10666,2025-09-24,Corporate,NC,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,17.0,Website,Cancelled
+ORD-10667,2025-05-27,Consumer,TX,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,Amazon,Delivered
+ORD-10668,2025-02-28,Consumer,FL,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,Website,Returned
+ORD-10669,2025-10-21,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,4.99,1.01,TikTok,Delivered
+ORD-10670,2025-01-15,Consumer,FL,Notebook Set,Office,2,9.99,0,19.98,0,14.98,Website,Delivered
+ORD-10671,2025-11-12,Consumer,NC,Water Bottle,Sports,2,18.5,0,37.0,6.99,30.009999999999998,Website,Cancelled
+ORD-10672,2025-10-18,Consumer,FL,Notebook Set,Office,1,9.99,0.2,7.99,6.99,1.0,Amazon,Delivered
+ORD-10673,2025-08-29,Consumer,GA,Phone Case,Accessories,2,12.5,0,25.0,6.99,13.01,TikTok,Delivered
+ORD-10674,2025-06-16,Consumer,CA,Running Socks 3pk,Apparel,2,11.0,0,22.0,4.99,12.01,Instagram,Delivered
+ORD-10675,2025-05-25,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,0,20.9,Instagram,Cancelled
+ORD-10676,2025-06-04,Corporate,CA,Phone Case,Accessories,1,12.5,0.1,11.25,0,11.25,Instagram,Delivered
+ORD-10677,2025-09-04,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.1,17.99,0,17.99,Amazon,Returned
+ORD-10678,2025-10-06,Corporate,GA,Water Bottle,Sports,2,18.5,0.1,33.3,4.99,28.309999999999995,Amazon,Delivered
+ORD-10679,2025-06-16,Corporate,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,32.989999999999995,Website,Delivered
+ORD-10680,2025-12-17,Corporate,NY,Water Bottle,Sports,1,18.5,0.1,16.65,0,16.65,Amazon,Cancelled
+ORD-10681,2025-10-25,Corporate,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Amazon,Delivered
+ORD-10682,2025-11-12,Corporate,CA,LED Strip Lights,Home,2,22.0,0,44.0,6.99,37.01,Amazon,Delivered
+ORD-10683,2025-08-11,Corporate,TX,Desk Lamp,Home,2,32.0,0.2,51.2,4.99,46.21,TikTok,Delivered
+ORD-10684,2025-05-31,Consumer,TX,Protein Bar Box,Grocery,2,19.99,0.05,37.98,0,37.98,Website,Delivered
+ORD-10685,2025-01-16,Consumer,NY,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,Instagram,Cancelled
+ORD-10686,2025-07-15,Consumer,GA,Running Socks 3pk,Apparel,3,11.0,0.05,31.35,6.99,24.36,Instagram,Delivered
+ORD-10687,2025-08-02,Consumer,NC,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,4.99,23.490000000000002,Amazon,Delivered
+ORD-10688,2025-03-15,Corporate,CA,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Delivered
+ORD-10689,2025-08-22,Corporate,NY,Yoga Mat,Sports,3,24.0,0.2,57.6,6.99,50.61,Instagram,Returned
+ORD-10690,2025-07-16,Consumer,GA,Water Bottle,Sports,2,18.5,0.2,29.6,6.99,22.61,TikTok,Delivered
+ORD-10691,2025-12-31,Corporate,NC,Protein Bar Box,Grocery,2,19.99,0.2,31.98,0,31.98,TikTok,Returned
+ORD-10692,2025-12-27,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,4.01,Amazon,Delivered
+ORD-10693,2025-08-27,Corporate,FL,Yoga Mat,Sports,3,24.0,0.15,61.2,4.99,56.21,TikTok,Delivered
+ORD-10694,2025-12-17,Corporate,NC,Coffee Beans 1lb,Grocery,2,14.99,0.15,25.48,0,25.48,Website,Returned
+ORD-10695,2025-10-21,Corporate,TX,Wireless Earbuds,Electronics,2,29.99,0.05,56.98,6.99,49.989999999999995,Website,Delivered
+ORD-10696,2026-01-08,Corporate,NC,Yoga Mat,Sports,1,24.0,0.15,20.4,4.99,10.41,Instagram,Returned
+ORD-10697,2026-01-13,Corporate,FL,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,Website,Delivered
+ORD-10698,2025-05-10,Consumer,NC,Notebook Set,Office,1,9.99,0.2,7.99,4.99,3.0,Website,Delivered
+ORD-10699,2025-12-04,Consumer,TX,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Website,Cancelled
+ORD-10700,2025-06-25,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Website,Delivered
+ORD-10701,2026-01-07,Corporate,FL,Water Bottle,Sports,2,18.5,0,37.0,6.99,30.009999999999998,Amazon,Delivered
+ORD-10702,2025-01-27,Consumer,CA,Wireless Earbuds,Electronics,3,29.99,0,89.97,0,89.97,Website,Delivered
+ORD-10703,2025-08-31,Consumer,FL,Notebook Set,Office,1,9.99,0.05,9.49,6.99,2.5,Instagram,Delivered
+ORD-10704,2025-09-29,Corporate,FL,Desk Lamp,Home,2,32.0,0.05,60.8,4.99,50.81,TikTok,Cancelled
+ORD-10705,2025-06-21,Consumer,NC,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,4.99,14.81,Website,Cancelled
+ORD-10706,2026-01-11,Corporate,GA,Protein Bar Box,Grocery,2,19.99,0.05,37.98,0,37.98,Amazon,Cancelled
+ORD-10707,2025-12-11,Consumer,FL,Yoga Mat,Sports,1,24.0,0.1,21.6,0,16.6,Website,Returned
+ORD-10708,2025-04-23,Corporate,NC,Phone Case,Accessories,3,12.5,0.05,35.62,4.99,30.629999999999995,Website,Delivered
+ORD-10709,2025-11-03,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Delivered
+ORD-10710,2025-02-26,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0.05,18.99,0,18.99,Instagram,Cancelled
+ORD-10711,2026-01-29,Consumer,TX,Phone Case,Accessories,3,12.5,0.05,35.62,4.99,30.629999999999995,Website,Delivered
+ORD-10712,2025-01-31,Consumer,NC,Wireless Earbuds,Electronics,2,29.99,0.05,56.98,4.99,51.989999999999995,Website,Delivered
+ORD-10713,2025-11-27,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,0,23.48,Instagram,Delivered
+ORD-10714,2026-01-02,Consumer,FL,Protein Bar Box,Grocery,3,19.99,0,59.97,6.99,47.98,Website,Returned
+ORD-10715,2025-03-18,Corporate,FL,Desk Lamp,Home,2,32.0,0,64.0,6.99,57.01,Amazon,Delivered
+ORD-10716,2025-07-20,Corporate,FL,Desk Lamp,Home,1,32.0,0.15,27.2,4.99,22.21,Instagram,Delivered
+ORD-10717,2025-10-04,Consumer,FL,Water Bottle,Sports,2,18.5,0.2,29.6,0,29.6,Amazon,Delivered
+ORD-10718,2025-06-20,Corporate,NC,Phone Case,Accessories,2,12.5,0.1,22.5,4.99,17.509999999999998,Amazon,Cancelled
+ORD-10719,2025-02-11,Consumer,NC,Phone Case,Accessories,1,12.5,0.1,11.25,4.99,6.26,Website,Returned
+ORD-10720,2025-06-03,Corporate,NY,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,0,50.98,Amazon,Cancelled
+ORD-10721,2026-01-12,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,6.99,10.01,Website,Cancelled
+ORD-10722,2025-02-02,Corporate,NC,Protein Bar Box,Grocery,1,19.99,0.05,18.99,6.99,11.999999999999998,Instagram,Delivered
+ORD-10723,2026-01-05,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,20.0,Amazon,Cancelled
+ORD-10724,2026-01-15,Corporate,GA,Notebook Set,Office,2,9.99,0.15,16.98,0,16.98,Website,Cancelled
+ORD-10725,2025-08-30,Corporate,FL,Yoga Mat,Sports,2,24.0,0.15,40.8,0,40.8,Amazon,Delivered
+ORD-10726,2025-06-07,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,0,25.49,TikTok,Delivered
+ORD-10727,2025-02-02,Consumer,NY,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Amazon,Cancelled
+ORD-10728,2025-06-14,Consumer,FL,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Delivered
+ORD-10729,2025-03-28,Corporate,TX,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Instagram,Delivered
+ORD-10730,2025-11-20,Corporate,NY,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Delivered
+ORD-10731,2025-02-15,Corporate,NC,Phone Case,Accessories,1,12.5,0,12.5,0,12.5,Instagram,Cancelled
+ORD-10732,2025-09-25,Consumer,NY,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,Website,Returned
+ORD-10733,2025-11-10,Consumer,NC,Wireless Earbuds,Electronics,2,29.99,0,59.98,6.99,52.989999999999995,Website,Returned
+ORD-10734,2025-11-13,Consumer,GA,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,Amazon,Cancelled
+ORD-10735,2025-02-27,Consumer,CA,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,Website,Cancelled
+ORD-10736,2025-05-26,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,4.99,20.5,TikTok,Delivered
+ORD-10737,2025-10-03,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,0,25.49,Instagram,Returned
+ORD-10738,2025-10-31,Corporate,TX,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Amazon,Cancelled
+ORD-10739,2025-06-16,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,0,8.8,Instagram,Delivered
+ORD-10740,2025-10-27,Consumer,FL,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Website,Delivered
+ORD-10741,2025-07-11,Consumer,CA,Protein Bar Box,Grocery,2,19.99,0,39.98,6.99,32.989999999999995,Amazon,Delivered
+ORD-10742,2025-01-17,Corporate,FL,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Website,Delivered
+ORD-10743,2025-04-23,Consumer,FL,LED Strip Lights,Home,2,22.0,0,44.0,4.99,39.01,Amazon,Returned
+ORD-10744,2025-02-14,Consumer,CA,Yoga Mat,Sports,2,24.0,0.1,43.2,0,43.2,Website,Returned
+ORD-10745,2026-01-09,Consumer,GA,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,Instagram,Returned
+ORD-10746,2025-08-02,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Amazon,Returned
+ORD-10747,2025-09-03,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0.1,53.98,6.99,46.989999999999995,Website,Delivered
+ORD-10748,2025-04-22,Consumer,TX,Notebook Set,Office,1,9.99,0.15,8.49,6.99,1.5,Amazon,Delivered
+ORD-10749,2025-03-24,Corporate,CA,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,4.99,45.989999999999995,Amazon,Returned
+ORD-10750,2025-12-27,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0.05,56.98,0,56.98,Website,Cancelled
+ORD-10751,2025-11-18,Consumer,NY,LED Strip Lights,Home,3,22.0,0.15,56.1,0,56.1,Website,Returned
+ORD-10752,2025-12-24,Corporate,GA,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Website,Returned
+ORD-10753,2025-01-27,Consumer,NY,Running Socks 3pk,Apparel,3,11.0,0,33.0,4.99,28.009999999999998,TikTok,Delivered
+ORD-10754,2025-10-15,Corporate,GA,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,6.0,Website,Delivered
+ORD-10755,2026-01-13,Corporate,GA,Notebook Set,Office,1,9.99,0.15,8.49,6.99,1.5,Website,Delivered
+ORD-10756,2025-05-22,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.1,9.9,6.99,2.91,Instagram,Delivered
+ORD-10757,2025-08-29,Corporate,NC,Notebook Set,Office,2,9.99,0.2,15.98,0,15.98,Website,Cancelled
+ORD-10758,2025-02-11,Consumer,FL,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Website,Delivered
+ORD-10759,2025-09-12,Consumer,GA,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Amazon,Delivered
+ORD-10760,2025-08-31,Consumer,NY,Desk Lamp,Home,2,32.0,0.15,54.4,0,54.4,Amazon,Delivered
+ORD-10761,2025-04-29,Corporate,TX,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Website,Cancelled
+ORD-10762,2025-08-23,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,6.99,12.81,Website,Delivered
+ORD-10763,2025-05-28,Consumer,FL,Desk Lamp,Home,1,32.0,0.05,30.4,4.99,25.409999999999997,Instagram,Delivered
+ORD-10764,2025-04-04,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.15,16.99,4.99,11.999999999999998,Website,Delivered
+ORD-10765,2025-05-14,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0,22.0,6.99,15.01,Amazon,Delivered
+ORD-10766,2025-08-18,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,4.99,6.01,Website,Delivered
+ORD-10767,2025-08-23,Consumer,FL,Water Bottle,Sports,2,18.5,0.2,29.6,0,24.6,Amazon,Returned
+ORD-10768,2025-08-31,Consumer,FL,Notebook Set,Office,1,9.99,0.15,8.49,4.99,3.5,Amazon,Delivered
+ORD-10769,2025-01-21,Consumer,FL,Running Socks 3pk,Apparel,3,11.0,0,33.0,6.99,26.009999999999998,Instagram,Returned
+ORD-10770,2025-06-17,Consumer,GA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Website,Delivered
+ORD-10771,2025-12-13,Corporate,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,6.99,8.0,Instagram,Delivered
+ORD-10772,2025-12-08,Consumer,NY,LED Strip Lights,Home,1,22.0,0.1,19.8,0,14.8,Instagram,Delivered
+ORD-10773,2025-06-26,Consumer,NC,Water Bottle,Sports,1,18.5,0,18.5,4.99,13.51,TikTok,Delivered
+ORD-10774,2025-08-15,Consumer,FL,Coffee Beans 1lb,Grocery,3,14.99,0.05,42.72,6.99,35.73,Instagram,Cancelled
+ORD-10775,2025-03-15,Consumer,NC,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,TikTok,Delivered
+ORD-10776,2025-02-15,Consumer,NY,Phone Case,Accessories,2,12.5,0.2,20.0,6.99,13.01,Website,Delivered
+ORD-10777,2025-04-13,Consumer,NY,Yoga Mat,Sports,2,24.0,0.05,45.6,0,45.6,Instagram,Delivered
+ORD-10778,2025-10-14,Corporate,CA,Desk Lamp,Home,2,32.0,0,64.0,6.99,57.01,Website,Delivered
+ORD-10779,2025-03-05,Corporate,NC,Desk Lamp,Home,1,32.0,0.15,27.2,6.99,20.21,Instagram,Cancelled
+ORD-10780,2025-09-10,Consumer,TX,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,TikTok,Delivered
+ORD-10781,2025-12-22,Consumer,TX,Desk Lamp,Home,3,32.0,0.15,81.6,6.99,74.61,TikTok,Delivered
+ORD-10782,2025-03-16,Consumer,CA,Desk Lamp,Home,1,32.0,0.1,28.8,0,28.8,Website,Delivered
+ORD-10783,2025-08-03,Corporate,TX,Yoga Mat,Sports,1,24.0,0,24.0,4.99,14.01,Website,Returned
+ORD-10784,2026-01-27,Consumer,FL,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Website,Cancelled
+ORD-10785,2025-02-19,Corporate,TX,Desk Lamp,Home,1,32.0,0.15,27.2,4.99,22.21,Website,Delivered
+ORD-10786,2025-07-30,Consumer,FL,Notebook Set,Office,1,9.99,0,9.99,6.99,-2.0,Website,Returned
+ORD-10787,2025-08-02,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,0,6.99,Website,Delivered
+ORD-10788,2025-03-13,Consumer,TX,LED Strip Lights,Home,1,22.0,0,22.0,4.99,17.009999999999998,Website,Delivered
+ORD-10789,2025-12-19,Consumer,NC,Phone Case,Accessories,1,12.5,0,12.5,0,7.5,Website,Delivered
+ORD-10790,2025-02-09,Consumer,CA,Water Bottle,Sports,3,18.5,0.2,44.4,0,44.4,Website,Delivered
+ORD-10791,2025-08-29,Consumer,NC,Phone Case,Accessories,1,12.5,0.2,10.0,0,5.0,Website,Cancelled
+ORD-10792,2025-11-05,Consumer,GA,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,0,23.99,Website,Delivered
+ORD-10793,2025-10-24,Consumer,TX,Phone Case,Accessories,1,12.5,0.2,10.0,4.99,5.01,TikTok,Cancelled
+ORD-10794,2025-02-20,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0.1,17.99,0,17.99,Amazon,Delivered
+ORD-10795,2026-01-07,Consumer,GA,Desk Lamp,Home,1,32.0,0.2,25.6,0,25.6,Amazon,Delivered
+ORD-10796,2025-08-14,Corporate,FL,Running Socks 3pk,Apparel,3,11.0,0.1,29.7,0,29.7,Website,Delivered
+ORD-10797,2025-07-28,Consumer,TX,Water Bottle,Sports,1,18.5,0.1,16.65,0,11.65,Website,Returned
+ORD-10798,2025-12-27,Consumer,FL,Yoga Mat,Sports,2,24.0,0.2,38.4,4.99,28.41,Instagram,Delivered
+ORD-10799,2025-12-18,Consumer,GA,Water Bottle,Sports,1,18.5,0.05,17.57,4.99,12.58,Website,Delivered
+ORD-10800,2025-12-14,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,6.99,0.0,Amazon,Delivered
+ORD-10801,2025-03-03,Consumer,NY,Phone Case,Accessories,2,12.5,0.05,23.75,0,23.75,TikTok,Delivered
+ORD-10802,2025-06-23,Consumer,NY,Yoga Mat,Sports,1,24.0,0,24.0,0,19.0,Instagram,Cancelled
+ORD-10803,2026-01-23,Corporate,NY,LED Strip Lights,Home,1,22.0,0.2,17.6,4.99,12.610000000000001,Amazon,Returned
+ORD-10804,2025-03-17,Consumer,FL,Water Bottle,Sports,2,18.5,0.1,33.3,4.99,23.31,Instagram,Delivered
+ORD-10805,2025-02-20,Corporate,FL,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,44.97,Instagram,Cancelled
+ORD-10806,2025-03-20,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Amazon,Returned
+ORD-10807,2025-12-05,Consumer,CA,LED Strip Lights,Home,2,22.0,0,44.0,4.99,39.01,TikTok,Delivered
+ORD-10808,2025-08-09,Consumer,NY,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Instagram,Delivered
+ORD-10809,2025-10-13,Corporate,NC,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Website,Delivered
+ORD-10810,2025-09-07,Consumer,CA,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Amazon,Returned
+ORD-10811,2025-09-17,Consumer,NY,Protein Bar Box,Grocery,2,19.99,0.05,37.98,0,37.98,TikTok,Delivered
+ORD-10812,2025-06-14,Consumer,FL,Protein Bar Box,Grocery,3,19.99,0,59.97,4.99,54.98,Website,Delivered
+ORD-10813,2026-01-27,Corporate,TX,Running Socks 3pk,Apparel,3,11.0,0.1,29.7,0,29.7,Instagram,Delivered
+ORD-10814,2025-12-05,Consumer,GA,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Website,Returned
+ORD-10815,2025-02-28,Consumer,FL,Phone Case,Accessories,3,12.5,0,37.5,4.99,27.51,Website,Delivered
+ORD-10816,2025-10-18,Corporate,NY,LED Strip Lights,Home,3,22.0,0.2,52.8,6.99,45.809999999999995,Amazon,Delivered
+ORD-10817,2025-10-20,Consumer,TX,Protein Bar Box,Grocery,1,19.99,0,19.99,6.99,12.999999999999998,Instagram,Delivered
+ORD-10818,2025-03-27,Corporate,NC,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,4.99,9.25,Instagram,Delivered
+ORD-10819,2025-10-02,Consumer,NC,LED Strip Lights,Home,3,22.0,0.2,52.8,0,52.8,Website,Returned
+ORD-10820,2026-01-03,Corporate,FL,Water Bottle,Sports,1,18.5,0.1,16.65,0,16.65,Website,Delivered
+ORD-10821,2025-04-18,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0.05,37.98,6.99,30.989999999999995,Website,Returned
+ORD-10822,2025-04-13,Consumer,NY,Desk Lamp,Home,2,32.0,0.15,54.4,4.99,49.41,TikTok,Delivered
+ORD-10823,2025-10-23,Consumer,GA,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Amazon,Delivered
+ORD-10824,2025-10-17,Corporate,FL,Desk Lamp,Home,3,32.0,0.1,86.4,6.99,79.41000000000001,Website,Delivered
+ORD-10825,2025-08-11,Consumer,TX,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,Website,Cancelled
+ORD-10826,2025-11-27,Consumer,NC,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,Website,Delivered
+ORD-10827,2025-01-15,Consumer,NC,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,TikTok,Delivered
+ORD-10828,2025-03-23,Consumer,FL,Water Bottle,Sports,3,18.5,0,55.5,0,50.5,Website,Cancelled
+ORD-10829,2026-01-05,Consumer,FL,Notebook Set,Office,1,9.99,0.15,8.49,0,3.49,Website,Delivered
+ORD-10830,2025-07-28,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,0,15.99,Amazon,Delivered
+ORD-10831,2025-09-25,Corporate,NC,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,0,13.49,Website,Delivered
+ORD-10832,2025-06-18,Corporate,NY,Protein Bar Box,Grocery,1,19.99,0.2,15.99,4.99,11.0,Amazon,Delivered
+ORD-10833,2025-03-31,Consumer,NC,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Returned
+ORD-10834,2025-12-25,Consumer,TX,Wireless Earbuds,Electronics,2,29.99,0.1,53.98,4.99,48.989999999999995,Instagram,Cancelled
+ORD-10835,2025-07-05,Consumer,TX,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,0,11.99,Website,Cancelled
+ORD-10836,2025-12-20,Corporate,GA,Protein Bar Box,Grocery,1,19.99,0.2,15.99,0,15.99,Instagram,Delivered
+ORD-10837,2025-08-15,Consumer,FL,Running Socks 3pk,Apparel,3,11.0,0,33.0,0,33.0,Instagram,Delivered
+ORD-10838,2025-06-02,Consumer,FL,Desk Lamp,Home,1,32.0,0.2,25.6,0,25.6,Amazon,Delivered
+ORD-10839,2026-02-04,Consumer,CA,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Cancelled
+ORD-10840,2025-12-24,Consumer,FL,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,TikTok,Cancelled
+ORD-10841,2025-12-22,Consumer,FL,Notebook Set,Office,3,9.99,0,29.97,6.99,22.979999999999997,Website,Cancelled
+ORD-10842,2025-07-25,Consumer,NC,LED Strip Lights,Home,3,22.0,0,66.0,0,66.0,Website,Delivered
+ORD-10843,2025-11-01,Corporate,NY,Yoga Mat,Sports,1,24.0,0.1,21.6,0,21.6,Website,Delivered
+ORD-10844,2025-03-30,Corporate,TX,LED Strip Lights,Home,3,22.0,0,66.0,4.99,61.01,Website,Delivered
+ORD-10845,2025-07-13,Corporate,GA,Water Bottle,Sports,1,18.5,0,18.5,6.99,6.51,Website,Returned
+ORD-10846,2025-08-25,Consumer,NC,Protein Bar Box,Grocery,3,19.99,0,59.97,0,59.97,Website,Delivered
+ORD-10847,2025-03-18,Consumer,TX,Water Bottle,Sports,2,18.5,0.05,35.15,4.99,30.159999999999997,TikTok,Delivered
+ORD-10848,2026-01-31,Consumer,CA,Wireless Earbuds,Electronics,3,29.99,0.1,80.97,6.99,68.98,Amazon,Delivered
+ORD-10849,2025-07-15,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,6.99,8.0,TikTok,Delivered
+ORD-10850,2025-08-03,Consumer,NY,Desk Lamp,Home,3,32.0,0.15,81.6,0,81.6,Website,Delivered
+ORD-10851,2025-05-08,Consumer,CA,Desk Lamp,Home,1,32.0,0.1,28.8,6.99,16.81,Instagram,Delivered
+ORD-10852,2026-01-01,Consumer,NY,Running Socks 3pk,Apparel,3,11.0,0.05,31.35,0,31.35,Website,Delivered
+ORD-10853,2025-06-20,Consumer,CA,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,TikTok,Cancelled
+ORD-10854,2025-01-03,Consumer,NY,Protein Bar Box,Grocery,3,19.99,0.15,50.97,0,50.97,Instagram,Cancelled
+ORD-10855,2025-10-25,Consumer,NC,Running Socks 3pk,Apparel,1,11.0,0.1,9.9,0,9.9,Instagram,Delivered
+ORD-10856,2025-12-30,Corporate,NY,LED Strip Lights,Home,1,22.0,0,22.0,4.99,12.01,Website,Delivered
+ORD-10857,2026-01-18,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Website,Returned
+ORD-10858,2025-03-26,Consumer,CA,Desk Lamp,Home,2,32.0,0,64.0,6.99,57.01,Website,Returned
+ORD-10859,2025-01-28,Consumer,FL,LED Strip Lights,Home,1,22.0,0,22.0,0,17.0,Website,Delivered
+ORD-10860,2025-01-21,Consumer,TX,LED Strip Lights,Home,2,22.0,0,44.0,6.99,37.01,TikTok,Delivered
+ORD-10861,2025-03-05,Consumer,FL,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,Website,Delivered
+ORD-10862,2025-10-16,Corporate,GA,Yoga Mat,Sports,3,24.0,0.1,64.8,4.99,59.809999999999995,Website,Returned
+ORD-10863,2025-05-07,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.05,18.99,0,18.99,Website,Delivered
+ORD-10864,2025-06-15,Consumer,FL,Phone Case,Accessories,2,12.5,0,25.0,0,20.0,Amazon,Cancelled
+ORD-10865,2025-11-01,Corporate,FL,LED Strip Lights,Home,2,22.0,0.15,37.4,4.99,32.41,Website,Cancelled
+ORD-10866,2025-04-19,Consumer,NC,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,Website,Cancelled
+ORD-10867,2025-02-17,Consumer,NC,Phone Case,Accessories,2,12.5,0.1,22.5,6.99,15.51,Instagram,Delivered
+ORD-10868,2026-02-04,Consumer,NC,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Amazon,Delivered
+ORD-10869,2026-01-12,Consumer,FL,Phone Case,Accessories,1,12.5,0.05,11.88,6.99,4.890000000000001,Website,Delivered
+ORD-10870,2025-07-18,Consumer,NC,Notebook Set,Office,1,9.99,0.05,9.49,6.99,2.5,Instagram,Delivered
+ORD-10871,2025-08-11,Corporate,NY,Water Bottle,Sports,1,18.5,0.1,16.65,0,11.65,TikTok,Delivered
+ORD-10872,2025-09-11,Corporate,FL,LED Strip Lights,Home,3,22.0,0,66.0,0,66.0,Instagram,Delivered
+ORD-10873,2025-12-17,Consumer,GA,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Website,Returned
+ORD-10874,2025-09-20,Consumer,NY,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Instagram,Cancelled
+ORD-10875,2025-10-27,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,10.0,Amazon,Delivered
+ORD-10876,2025-01-24,Consumer,NY,Yoga Mat,Sports,1,24.0,0.2,19.2,6.99,12.209999999999999,Website,Delivered
+ORD-10877,2025-11-16,Consumer,TX,Protein Bar Box,Grocery,3,19.99,0.05,56.97,6.99,49.98,Website,Delivered
+ORD-10878,2025-12-11,Consumer,NY,Yoga Mat,Sports,1,24.0,0.15,20.4,4.99,15.409999999999998,Website,Delivered
+ORD-10879,2025-08-24,Corporate,NY,Phone Case,Accessories,1,12.5,0,12.5,6.99,5.51,Amazon,Returned
+ORD-10880,2025-12-20,Corporate,NY,LED Strip Lights,Home,1,22.0,0.1,19.8,4.99,14.81,Website,Delivered
+ORD-10881,2025-01-09,Corporate,GA,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Delivered
+ORD-10882,2025-11-17,Corporate,GA,Yoga Mat,Sports,3,24.0,0,72.0,6.99,60.01,Instagram,Delivered
+ORD-10883,2025-03-27,Consumer,CA,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,Instagram,Delivered
+ORD-10884,2025-05-31,Corporate,NY,LED Strip Lights,Home,2,22.0,0,44.0,0,39.0,Website,Delivered
+ORD-10885,2026-01-13,Corporate,NC,Water Bottle,Sports,2,18.5,0.2,29.6,6.99,17.61,Instagram,Delivered
+ORD-10886,2025-04-29,Corporate,FL,Notebook Set,Office,2,9.99,0.15,16.98,6.99,9.99,Instagram,Returned
+ORD-10887,2025-11-28,Consumer,CA,Running Socks 3pk,Apparel,2,11.0,0,22.0,4.99,12.01,TikTok,Cancelled
+ORD-10888,2025-01-11,Consumer,NC,Running Socks 3pk,Apparel,2,11.0,0.15,18.7,6.99,11.709999999999999,Instagram,Delivered
+ORD-10889,2025-10-28,Corporate,TX,LED Strip Lights,Home,1,22.0,0.1,19.8,0,19.8,Amazon,Cancelled
+ORD-10890,2025-08-02,Corporate,TX,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,Website,Returned
+ORD-10891,2025-12-08,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.15,12.74,0,12.74,Website,Returned
+ORD-10892,2025-09-10,Consumer,GA,LED Strip Lights,Home,1,22.0,0.2,17.6,6.99,10.610000000000001,Website,Delivered
+ORD-10893,2025-03-31,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,11.0,Website,Delivered
+ORD-10894,2025-10-15,Consumer,CA,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,Website,Delivered
+ORD-10895,2025-12-20,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Instagram,Delivered
+ORD-10896,2025-10-15,Consumer,FL,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Website,Delivered
+ORD-10897,2025-12-29,Consumer,CA,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,4.99,4.359999999999999,Website,Delivered
+ORD-10898,2025-03-04,Consumer,CA,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,0,8.8,Website,Delivered
+ORD-10899,2025-02-13,Consumer,TX,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,Instagram,Delivered
+ORD-10900,2025-04-27,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,6.99,5.0,Instagram,Delivered
+ORD-10901,2025-08-15,Consumer,FL,Notebook Set,Office,3,9.99,0,29.97,0,29.97,TikTok,Delivered
+ORD-10902,2026-01-31,Consumer,NY,Phone Case,Accessories,1,12.5,0,12.5,6.99,0.51,Website,Cancelled
+ORD-10903,2025-08-03,Consumer,NC,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,Website,Delivered
+ORD-10904,2025-12-25,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0.1,26.99,0,26.99,TikTok,Returned
+ORD-10905,2026-02-05,Corporate,NY,Protein Bar Box,Grocery,3,19.99,0.05,56.97,4.99,51.98,Website,Delivered
+ORD-10906,2026-01-07,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,6.99,52.989999999999995,TikTok,Delivered
+ORD-10907,2025-09-24,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,4.99,3.5,TikTok,Returned
+ORD-10908,2026-01-07,Consumer,FL,Desk Lamp,Home,1,32.0,0.2,25.6,4.99,20.61,Website,Delivered
+ORD-10909,2026-01-23,Corporate,FL,Notebook Set,Office,1,9.99,0,9.99,0,9.99,TikTok,Cancelled
+ORD-10910,2026-01-17,Corporate,GA,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Website,Cancelled
+ORD-10911,2025-09-24,Corporate,GA,Protein Bar Box,Grocery,3,19.99,0,59.97,6.99,47.98,TikTok,Returned
+ORD-10912,2025-03-17,Corporate,NY,Coffee Beans 1lb,Grocery,1,14.99,0.05,14.24,0,14.24,Website,Delivered
+ORD-10913,2025-04-20,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,6.99,52.989999999999995,TikTok,Delivered
+ORD-10914,2025-05-16,Corporate,CA,Protein Bar Box,Grocery,2,19.99,0.1,35.98,6.99,28.989999999999995,Instagram,Cancelled
+ORD-10915,2025-03-15,Corporate,FL,LED Strip Lights,Home,3,22.0,0.05,62.7,0,62.7,Instagram,Delivered
+ORD-10916,2025-08-22,Consumer,FL,Notebook Set,Office,2,9.99,0,19.98,0,19.98,TikTok,Delivered
+ORD-10917,2025-02-26,Consumer,TX,Phone Case,Accessories,2,12.5,0.2,20.0,6.99,13.01,Website,Returned
+ORD-10918,2025-07-11,Consumer,NC,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,Website,Delivered
+ORD-10919,2025-05-26,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,4.99,34.989999999999995,Instagram,Delivered
+ORD-10920,2025-01-23,Consumer,CA,Phone Case,Accessories,2,12.5,0,25.0,0,25.0,TikTok,Delivered
+ORD-10921,2026-01-26,Consumer,CA,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,0,20.9,Amazon,Delivered
+ORD-10922,2025-11-16,Corporate,NY,Yoga Mat,Sports,3,24.0,0,72.0,0,72.0,Instagram,Delivered
+ORD-10923,2026-01-12,Consumer,FL,Notebook Set,Office,1,9.99,0.15,8.49,6.99,1.5,Amazon,Delivered
+ORD-10924,2025-10-15,Corporate,FL,Protein Bar Box,Grocery,3,19.99,0.2,47.98,4.99,42.989999999999995,Website,Delivered
+ORD-10925,2025-10-19,Corporate,GA,Protein Bar Box,Grocery,2,19.99,0.1,35.98,0,35.98,TikTok,Delivered
+ORD-10926,2025-01-10,Consumer,GA,Phone Case,Accessories,3,12.5,0.1,33.75,0,33.75,Amazon,Returned
+ORD-10927,2025-07-25,Corporate,FL,LED Strip Lights,Home,1,22.0,0.2,17.6,4.99,12.610000000000001,Website,Delivered
+ORD-10928,2025-09-28,Consumer,NY,Water Bottle,Sports,1,18.5,0.05,17.57,0,17.57,Website,Delivered
+ORD-10929,2025-04-04,Consumer,FL,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Instagram,Cancelled
+ORD-10930,2025-04-03,Consumer,FL,Yoga Mat,Sports,1,24.0,0.1,21.6,4.99,16.61,Website,Delivered
+ORD-10931,2025-07-12,Consumer,FL,Yoga Mat,Sports,2,24.0,0,48.0,4.99,43.01,TikTok,Returned
+ORD-10932,2025-02-28,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,6.99,19.990000000000002,TikTok,Delivered
+ORD-10933,2025-11-21,Consumer,FL,Phone Case,Accessories,2,12.5,0,25.0,6.99,18.009999999999998,TikTok,Cancelled
+ORD-10934,2025-06-05,Corporate,NY,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Amazon,Returned
+ORD-10935,2026-02-05,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,TikTok,Delivered
+ORD-10936,2025-11-14,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,6.99,12.0,Instagram,Delivered
+ORD-10937,2025-06-29,Corporate,GA,Protein Bar Box,Grocery,1,19.99,0.2,15.99,6.99,9.0,TikTok,Delivered
+ORD-10938,2025-06-03,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,0,25.49,Website,Cancelled
+ORD-10939,2025-11-09,Corporate,TX,Notebook Set,Office,1,9.99,0.05,9.49,0,9.49,Website,Cancelled
+ORD-10940,2025-05-06,Corporate,TX,Desk Lamp,Home,3,32.0,0.05,91.2,4.99,86.21000000000001,Instagram,Returned
+ORD-10941,2025-11-27,Consumer,CA,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,4.35,Website,Cancelled
+ORD-10942,2026-01-26,Consumer,FL,Yoga Mat,Sports,2,24.0,0.1,43.2,6.99,36.21,Amazon,Cancelled
+ORD-10943,2025-12-11,Consumer,TX,Phone Case,Accessories,2,12.5,0,25.0,6.99,18.009999999999998,Instagram,Returned
+ORD-10944,2025-03-05,Consumer,TX,Running Socks 3pk,Apparel,2,11.0,0,22.0,0,22.0,Instagram,Delivered
+ORD-10945,2025-12-15,Corporate,TX,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,4.99,39.98,TikTok,Cancelled
+ORD-10946,2025-09-10,Consumer,FL,Desk Lamp,Home,3,32.0,0,96.0,0,96.0,Amazon,Cancelled
+ORD-10947,2025-11-23,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,TikTok,Returned
+ORD-10948,2025-12-04,Corporate,FL,LED Strip Lights,Home,1,22.0,0.1,19.8,0,14.8,Website,Cancelled
+ORD-10949,2025-09-25,Corporate,NC,Phone Case,Accessories,1,12.5,0,12.5,0,12.5,Amazon,Delivered
+ORD-10950,2025-01-02,Consumer,FL,Notebook Set,Office,2,9.99,0,19.98,6.99,12.99,Website,Delivered
+ORD-10951,2025-09-11,Consumer,FL,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Website,Delivered
+ORD-10952,2025-06-11,Consumer,NY,Desk Lamp,Home,2,32.0,0.1,57.6,6.99,50.61,Website,Returned
+ORD-10953,2025-02-08,Consumer,GA,Wireless Earbuds,Electronics,3,29.99,0,89.97,6.99,82.98,Website,Delivered
+ORD-10954,2025-01-13,Corporate,TX,Phone Case,Accessories,1,12.5,0.05,11.88,6.99,4.890000000000001,Website,Delivered
+ORD-10955,2025-06-20,Corporate,GA,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,TikTok,Returned
+ORD-10956,2025-10-24,Consumer,FL,LED Strip Lights,Home,1,22.0,0.15,18.7,6.99,11.709999999999999,Website,Delivered
+ORD-10957,2025-02-01,Consumer,FL,Running Socks 3pk,Apparel,3,11.0,0,33.0,0,33.0,Amazon,Delivered
+ORD-10958,2025-10-14,Consumer,NC,Phone Case,Accessories,1,12.5,0.15,10.62,0,10.62,Instagram,Delivered
+ORD-10959,2025-08-21,Consumer,CA,Protein Bar Box,Grocery,2,19.99,0,39.98,0,39.98,TikTok,Returned
+ORD-10960,2025-08-21,Corporate,TX,Phone Case,Accessories,1,12.5,0.15,10.62,0,10.62,Website,Delivered
+ORD-10961,2025-10-31,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,0,50.98,Website,Delivered
+ORD-10962,2025-04-06,Consumer,FL,Water Bottle,Sports,2,18.5,0.15,31.45,6.99,24.46,Website,Delivered
+ORD-10963,2025-06-09,Corporate,FL,Desk Lamp,Home,2,32.0,0.05,60.8,4.99,50.81,Website,Returned
+ORD-10964,2025-09-23,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,6.0,TikTok,Returned
+ORD-10965,2025-04-13,Corporate,GA,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Website,Delivered
+ORD-10966,2025-11-04,Corporate,TX,LED Strip Lights,Home,3,22.0,0.15,56.1,6.99,49.11,TikTok,Delivered
+ORD-10967,2025-03-25,Consumer,CA,Protein Bar Box,Grocery,1,19.99,0.05,18.99,4.99,13.999999999999998,Website,Delivered
+ORD-10968,2025-12-21,Consumer,CA,Coffee Beans 1lb,Grocery,1,14.99,0.15,12.74,0,12.74,Website,Delivered
+ORD-10969,2025-07-24,Consumer,FL,Running Socks 3pk,Apparel,3,11.0,0.05,31.35,0,31.35,Website,Delivered
+ORD-10970,2025-05-29,Consumer,GA,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Website,Delivered
+ORD-10971,2025-03-31,Consumer,NC,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,Website,Returned
+ORD-10972,2025-04-01,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,9.99,Amazon,Delivered
+ORD-10973,2025-06-23,Consumer,NC,Water Bottle,Sports,3,18.5,0.2,44.4,0,44.4,Website,Delivered
+ORD-10974,2025-12-31,Consumer,FL,Yoga Mat,Sports,2,24.0,0.2,38.4,6.99,26.41,Website,Delivered
+ORD-10975,2025-06-12,Corporate,NY,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,4.99,23.490000000000002,Website,Delivered
+ORD-10976,2025-03-18,Consumer,GA,Protein Bar Box,Grocery,2,19.99,0,39.98,4.99,29.99,Website,Delivered
+ORD-10977,2026-01-08,Consumer,CA,Notebook Set,Office,2,9.99,0.05,18.98,0,18.98,TikTok,Delivered
+ORD-10978,2025-09-13,Corporate,CA,Yoga Mat,Sports,2,24.0,0.05,45.6,4.99,40.61,Amazon,Delivered
+ORD-10979,2025-08-31,Consumer,NY,Notebook Set,Office,3,9.99,0.05,28.47,6.99,21.479999999999997,TikTok,Cancelled
+ORD-10980,2025-08-20,Consumer,NY,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Instagram,Delivered
+ORD-10981,2025-05-11,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0.2,15.99,4.99,6.0,Website,Delivered
+ORD-10982,2025-10-26,Consumer,CA,LED Strip Lights,Home,2,22.0,0,44.0,0,44.0,Website,Delivered
+ORD-10983,2025-07-08,Consumer,TX,LED Strip Lights,Home,2,22.0,0.05,41.8,6.99,34.809999999999995,Website,Delivered
+ORD-10984,2025-07-03,Consumer,NC,LED Strip Lights,Home,1,22.0,0,22.0,0,22.0,TikTok,Returned
+ORD-10985,2025-03-02,Consumer,TX,Phone Case,Accessories,1,12.5,0,12.5,0,7.5,Website,Delivered
+ORD-10986,2025-06-04,Corporate,NC,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,4.99,39.98,TikTok,Delivered
+ORD-10987,2025-05-25,Consumer,NY,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,TikTok,Cancelled
+ORD-10988,2025-07-23,Consumer,GA,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,0,50.98,Website,Delivered
+ORD-10989,2026-01-05,Consumer,TX,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,6.99,19.990000000000002,Website,Delivered
+ORD-10990,2025-08-13,Consumer,FL,Water Bottle,Sports,3,18.5,0.05,52.72,0,52.72,TikTok,Delivered
+ORD-10991,2025-12-04,Consumer,TX,Desk Lamp,Home,3,32.0,0,96.0,6.99,89.01,Instagram,Cancelled
+ORD-10992,2025-06-16,Corporate,FL,Water Bottle,Sports,3,18.5,0.1,49.95,4.99,44.96,Website,Delivered
+ORD-10993,2025-07-15,Consumer,NY,Yoga Mat,Sports,1,24.0,0.1,21.6,6.99,9.61,Instagram,Delivered
+ORD-10994,2025-11-24,Consumer,FL,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,Amazon,Returned
+ORD-10995,2025-01-14,Consumer,GA,Yoga Mat,Sports,1,24.0,0.2,19.2,6.99,7.21,Instagram,Delivered
+ORD-10996,2025-08-21,Consumer,TX,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,0,14.99,Website,Delivered
+ORD-10997,2025-03-08,Corporate,NY,Water Bottle,Sports,2,18.5,0,37.0,0,37.0,Website,Delivered
+ORD-10998,2025-06-08,Consumer,CA,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,0,11.99,TikTok,Delivered
+ORD-10999,2025-05-22,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.1,17.99,6.99,10.999999999999998,Instagram,Delivered
+ORD-11000,2025-09-27,Consumer,CA,Water Bottle,Sports,2,18.5,0.2,29.6,0,29.6,TikTok,Delivered
+ORD-11001,2025-06-27,Corporate,NC,Phone Case,Accessories,1,12.5,0.15,10.62,6.99,3.629999999999999,Website,Delivered
+ORD-11002,2025-08-23,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.1,13.49,6.99,6.5,Website,Delivered
+ORD-11003,2025-05-21,Corporate,NC,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,0,23.99,Website,Cancelled
+ORD-11004,2025-07-08,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,0,28.48,Website,Delivered
+ORD-11005,2025-09-17,Consumer,CA,LED Strip Lights,Home,1,22.0,0,22.0,0,17.0,Amazon,Cancelled
+ORD-11006,2025-04-10,Consumer,FL,LED Strip Lights,Home,2,22.0,0,44.0,6.99,32.01,Website,Cancelled
+ORD-11007,2025-09-06,Consumer,FL,Yoga Mat,Sports,1,24.0,0.15,20.4,6.99,8.41,Amazon,Delivered
+ORD-11008,2025-03-24,Consumer,FL,LED Strip Lights,Home,1,22.0,0.05,20.9,4.99,15.909999999999998,Website,Delivered
+ORD-11009,2025-03-28,Consumer,FL,Phone Case,Accessories,2,12.5,0.15,21.25,6.99,14.26,Website,Delivered
+ORD-11010,2025-12-12,Corporate,GA,Running Socks 3pk,Apparel,1,11.0,0,11.0,0,11.0,Website,Cancelled
+ORD-11011,2025-07-19,Corporate,NC,Notebook Set,Office,3,9.99,0.15,25.47,0,25.47,TikTok,Delivered
+ORD-11012,2025-05-08,Consumer,GA,Wireless Earbuds,Electronics,2,29.99,0.2,47.98,0,47.98,Website,Delivered
+ORD-11013,2025-12-15,Corporate,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,0,29.99,Website,Cancelled
+ORD-11014,2025-08-01,Corporate,FL,Yoga Mat,Sports,3,24.0,0,72.0,0,72.0,Website,Returned
+ORD-11015,2025-08-08,Consumer,GA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,6.99,22.990000000000002,Website,Delivered
+ORD-11016,2025-01-07,Consumer,GA,Yoga Mat,Sports,1,24.0,0.05,22.8,4.99,17.810000000000002,Website,Cancelled
+ORD-11017,2025-01-23,Consumer,GA,Desk Lamp,Home,3,32.0,0.1,86.4,4.99,81.41000000000001,TikTok,Delivered
+ORD-11018,2025-05-09,Consumer,TX,Phone Case,Accessories,3,12.5,0.1,33.75,0,33.75,Amazon,Delivered
+ORD-11019,2025-12-08,Consumer,FL,Yoga Mat,Sports,1,24.0,0,24.0,4.99,19.009999999999998,TikTok,Returned
+ORD-11020,2025-09-15,Corporate,FL,LED Strip Lights,Home,2,22.0,0.1,39.6,0,39.6,TikTok,Delivered
+ORD-11021,2026-01-23,Consumer,FL,Desk Lamp,Home,1,32.0,0.15,27.2,6.99,15.21,Website,Delivered
+ORD-11022,2025-04-15,Corporate,FL,Desk Lamp,Home,1,32.0,0,32.0,6.99,25.009999999999998,Amazon,Returned
+ORD-11023,2025-05-23,Consumer,FL,LED Strip Lights,Home,3,22.0,0,66.0,0,66.0,Instagram,Cancelled
+ORD-11024,2025-06-25,Consumer,GA,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,Amazon,Delivered
+ORD-11025,2025-09-24,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.2,23.98,6.99,16.990000000000002,Website,Delivered
+ORD-11026,2025-11-21,Consumer,GA,LED Strip Lights,Home,1,22.0,0,22.0,0,17.0,Website,Returned
+ORD-11027,2025-08-07,Corporate,CA,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Amazon,Delivered
+ORD-11028,2025-06-05,Consumer,CA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Website,Delivered
+ORD-11029,2025-07-13,Consumer,CA,LED Strip Lights,Home,1,22.0,0,22.0,6.99,15.01,TikTok,Returned
+ORD-11030,2025-01-11,Consumer,NY,Water Bottle,Sports,1,18.5,0.2,14.8,6.99,7.8100000000000005,Website,Returned
+ORD-11031,2025-05-12,Consumer,CA,Notebook Set,Office,1,9.99,0.1,8.99,0,8.99,Website,Delivered
+ORD-11032,2025-06-20,Consumer,CA,Notebook Set,Office,2,9.99,0.05,18.98,0,18.98,Website,Delivered
+ORD-11033,2025-09-09,Consumer,NY,Wireless Earbuds,Electronics,2,29.99,0.15,50.98,4.99,45.989999999999995,Amazon,Delivered
+ORD-11034,2025-07-29,Consumer,FL,Water Bottle,Sports,2,18.5,0,37.0,0,37.0,TikTok,Delivered
+ORD-11035,2025-09-18,Corporate,CA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,Website,Cancelled
+ORD-11036,2026-01-12,Consumer,GA,Wireless Earbuds,Electronics,3,29.99,0.05,85.47,6.99,78.48,Website,Cancelled
+ORD-11037,2025-05-14,Corporate,CA,Wireless Earbuds,Electronics,3,29.99,0.15,76.47,0,76.47,Website,Delivered
+ORD-11038,2025-01-07,Consumer,FL,Coffee Beans 1lb,Grocery,2,14.99,0.1,26.98,0,26.98,Instagram,Delivered
+ORD-11039,2025-08-05,Consumer,NY,Protein Bar Box,Grocery,1,19.99,0.1,17.99,0,17.99,Website,Returned
+ORD-11040,2026-01-11,Consumer,FL,Notebook Set,Office,3,9.99,0.05,28.47,4.99,18.48,TikTok,Delivered
+ORD-11041,2026-01-19,Consumer,NC,Yoga Mat,Sports,1,24.0,0.15,20.4,0,15.4,Website,Delivered
+ORD-11042,2025-09-26,Consumer,NC,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Website,Delivered
+ORD-11043,2025-04-12,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,9.35,Website,Delivered
+ORD-11044,2025-01-31,Corporate,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Delivered
+ORD-11045,2025-11-22,Consumer,FL,Water Bottle,Sports,2,18.5,0.15,31.45,0,31.45,Instagram,Delivered
+ORD-11046,2025-10-27,Consumer,CA,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Website,Delivered
+ORD-11047,2025-12-07,Corporate,FL,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,0,18.99,TikTok,Delivered
+ORD-11048,2025-09-06,Consumer,TX,Water Bottle,Sports,2,18.5,0.1,33.3,4.99,28.309999999999995,Website,Delivered
+ORD-11049,2025-07-04,Corporate,NY,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,0,8.8,Website,Delivered
+ORD-11050,2025-12-24,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,-0.99,Website,Returned
+ORD-11051,2025-07-08,Consumer,CA,Desk Lamp,Home,3,32.0,0.2,76.8,0,76.8,Amazon,Delivered
+ORD-11052,2025-01-09,Corporate,TX,Wireless Earbuds,Electronics,3,29.99,0.2,71.98,4.99,66.99000000000001,Amazon,Delivered
+ORD-11053,2025-07-24,Corporate,FL,LED Strip Lights,Home,1,22.0,0.1,19.8,6.99,12.81,Instagram,Cancelled
+ORD-11054,2025-11-07,Consumer,FL,Phone Case,Accessories,3,12.5,0.05,35.62,4.99,30.629999999999995,TikTok,Cancelled
+ORD-11055,2025-02-14,Consumer,CA,Notebook Set,Office,1,9.99,0,9.99,6.99,3.0,Instagram,Delivered
+ORD-11056,2025-05-05,Consumer,FL,LED Strip Lights,Home,3,22.0,0.1,59.4,0,59.4,Amazon,Cancelled
+ORD-11057,2025-03-24,Consumer,NY,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Website,Cancelled
+ORD-11058,2025-12-07,Consumer,CA,Desk Lamp,Home,3,32.0,0.05,91.2,0,86.2,Amazon,Delivered
+ORD-11059,2025-11-26,Consumer,NY,Coffee Beans 1lb,Grocery,2,14.99,0.2,23.98,0,23.98,Amazon,Cancelled
+ORD-11060,2025-04-30,Consumer,NC,Water Bottle,Sports,3,18.5,0.15,47.17,6.99,35.18,Website,Delivered
+ORD-11061,2026-01-17,Consumer,TX,Phone Case,Accessories,1,12.5,0.15,10.62,0,5.62,Website,Delivered
+ORD-11062,2025-02-01,Corporate,GA,Protein Bar Box,Grocery,3,19.99,0,59.97,4.99,54.98,Instagram,Delivered
+ORD-11063,2025-09-24,Corporate,GA,Running Socks 3pk,Apparel,3,11.0,0.2,26.4,0,21.4,Website,Returned
+ORD-11064,2025-04-23,Consumer,CA,LED Strip Lights,Home,1,22.0,0,22.0,4.99,12.01,Website,Delivered
+ORD-11065,2025-09-15,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0,59.98,4.99,54.989999999999995,Amazon,Returned
+ORD-11066,2025-09-11,Consumer,NY,LED Strip Lights,Home,3,22.0,0.2,52.8,0,47.8,Website,Delivered
+ORD-11067,2025-12-25,Corporate,FL,Coffee Beans 1lb,Grocery,3,14.99,0.2,35.98,0,35.98,Website,Delivered
+ORD-11068,2025-01-12,Corporate,NY,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,Amazon,Delivered
+ORD-11069,2025-09-28,Corporate,NC,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,0,20.9,Website,Cancelled
+ORD-11070,2025-06-15,Corporate,FL,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Amazon,Delivered
+ORD-11071,2025-08-15,Corporate,CA,LED Strip Lights,Home,3,22.0,0,66.0,0,66.0,Website,Delivered
+ORD-11072,2025-07-05,Corporate,FL,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,44.97,Website,Delivered
+ORD-11073,2025-01-29,Consumer,TX,Water Bottle,Sports,3,18.5,0.2,44.4,0,44.4,Website,Delivered
+ORD-11074,2025-10-31,Consumer,FL,Phone Case,Accessories,2,12.5,0.15,21.25,4.99,16.259999999999998,Instagram,Delivered
+ORD-11075,2025-09-08,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0,29.99,6.99,23.0,Instagram,Cancelled
+ORD-11076,2025-05-21,Corporate,CA,Phone Case,Accessories,2,12.5,0.2,20.0,6.99,13.01,Website,Delivered
+ORD-11077,2025-01-12,Corporate,CA,Phone Case,Accessories,1,12.5,0.05,11.88,0,11.88,Amazon,Delivered
+ORD-11078,2025-11-27,Corporate,NY,Protein Bar Box,Grocery,1,19.99,0.05,18.99,6.99,11.999999999999998,Website,Delivered
+ORD-11079,2025-07-27,Corporate,FL,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,9.35,TikTok,Returned
+ORD-11080,2026-01-21,Consumer,FL,LED Strip Lights,Home,1,22.0,0.1,19.8,0,19.8,TikTok,Cancelled
+ORD-11081,2025-06-10,Consumer,FL,Yoga Mat,Sports,1,24.0,0.1,21.6,6.99,9.61,Website,Cancelled
+ORD-11082,2026-01-21,Consumer,FL,Yoga Mat,Sports,1,24.0,0.1,21.6,4.99,16.61,TikTok,Delivered
+ORD-11083,2025-12-03,Consumer,GA,Running Socks 3pk,Apparel,2,11.0,0,22.0,6.99,15.01,TikTok,Delivered
+ORD-11084,2025-12-22,Consumer,TX,Notebook Set,Office,2,9.99,0,19.98,6.99,12.99,TikTok,Delivered
+ORD-11085,2025-05-02,Consumer,GA,Phone Case,Accessories,3,12.5,0.2,30.0,0,25.0,Website,Delivered
+ORD-11086,2025-05-23,Consumer,NY,Protein Bar Box,Grocery,2,19.99,0,39.98,4.99,29.99,Website,Delivered
+ORD-11087,2025-08-22,Consumer,NC,Water Bottle,Sports,3,18.5,0,55.5,6.99,48.51,Amazon,Delivered
+ORD-11088,2025-11-21,Corporate,GA,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,TikTok,Cancelled
+ORD-11089,2025-03-20,Consumer,NY,Notebook Set,Office,2,9.99,0,19.98,6.99,12.99,TikTok,Delivered
+ORD-11090,2025-12-17,Corporate,NY,Phone Case,Accessories,1,12.5,0,12.5,0,7.5,Amazon,Delivered
+ORD-11091,2025-03-16,Consumer,NC,Running Socks 3pk,Apparel,1,11.0,0.2,8.8,4.99,-1.19,Instagram,Delivered
+ORD-11092,2025-03-31,Corporate,NC,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,Instagram,Delivered
+ORD-11093,2025-10-10,Consumer,FL,Notebook Set,Office,1,9.99,0.15,8.49,4.99,3.5,Website,Delivered
+ORD-11094,2025-09-02,Corporate,FL,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Amazon,Returned
+ORD-11095,2025-07-13,Corporate,NC,Yoga Mat,Sports,3,24.0,0,72.0,0,67.0,Amazon,Cancelled
+ORD-11096,2025-12-14,Corporate,NY,Running Socks 3pk,Apparel,3,11.0,0.2,26.4,0,26.4,Website,Delivered
+ORD-11097,2025-05-22,Consumer,GA,Running Socks 3pk,Apparel,2,11.0,0.1,19.8,4.99,14.81,Website,Delivered
+ORD-11098,2025-11-21,Consumer,FL,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,Website,Delivered
+ORD-11099,2025-10-11,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,4.99,14.999999999999998,Instagram,Cancelled
+ORD-11100,2025-09-12,Corporate,FL,Notebook Set,Office,3,9.99,0,29.97,6.99,22.979999999999997,TikTok,Delivered
+ORD-11101,2025-05-06,Corporate,FL,Wireless Earbuds,Electronics,3,29.99,0.05,85.47,4.99,80.48,Website,Cancelled
+ORD-11102,2025-07-07,Consumer,TX,Notebook Set,Office,1,9.99,0,9.99,0,9.99,Instagram,Delivered
+ORD-11103,2025-06-23,Corporate,GA,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Delivered
+ORD-11104,2025-04-20,Consumer,NY,Desk Lamp,Home,2,32.0,0,64.0,4.99,59.01,Website,Cancelled
+ORD-11105,2025-01-30,Consumer,FL,Notebook Set,Office,1,9.99,0.05,9.49,6.99,2.5,Website,Delivered
+ORD-11106,2026-01-05,Consumer,NY,Running Socks 3pk,Apparel,1,11.0,0,11.0,4.99,6.01,Website,Delivered
+ORD-11107,2025-07-30,Consumer,CA,LED Strip Lights,Home,1,22.0,0,22.0,0,17.0,Amazon,Delivered
+ORD-11108,2025-06-03,Consumer,NY,Coffee Beans 1lb,Grocery,2,14.99,0.05,28.48,4.99,23.490000000000002,TikTok,Delivered
+ORD-11109,2025-03-24,Consumer,TX,Phone Case,Accessories,2,12.5,0.15,21.25,6.99,14.26,Website,Delivered
+ORD-11110,2025-01-21,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,4.99,10.0,Website,Delivered
+ORD-11111,2025-12-07,Consumer,FL,Yoga Mat,Sports,3,24.0,0,72.0,6.99,65.01,TikTok,Delivered
+ORD-11112,2025-09-14,Corporate,NY,Yoga Mat,Sports,1,24.0,0.2,19.2,6.99,7.21,Website,Delivered
+ORD-11113,2026-01-28,Corporate,GA,Yoga Mat,Sports,1,24.0,0,24.0,0,19.0,Website,Delivered
+ORD-11114,2025-09-03,Consumer,NC,Protein Bar Box,Grocery,3,19.99,0,59.97,6.99,52.98,Instagram,Delivered
+ORD-11115,2025-05-08,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0.15,16.99,0,16.99,Amazon,Delivered
+ORD-11116,2025-12-25,Corporate,FL,Water Bottle,Sports,1,18.5,0.05,17.57,0,17.57,TikTok,Cancelled
+ORD-11117,2025-07-25,Consumer,NC,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Delivered
+ORD-11118,2025-01-27,Consumer,NY,Wireless Earbuds,Electronics,2,29.99,0,59.98,0,59.98,Amazon,Cancelled
+ORD-11119,2025-09-03,Consumer,NY,Coffee Beans 1lb,Grocery,1,14.99,0,14.99,6.99,8.0,Website,Delivered
+ORD-11120,2025-12-31,Consumer,GA,Desk Lamp,Home,1,32.0,0,32.0,4.99,27.009999999999998,Website,Delivered
+ORD-11121,2025-04-19,Consumer,CA,Wireless Earbuds,Electronics,1,29.99,0,29.99,4.99,25.0,TikTok,Delivered
+ORD-11122,2025-07-06,Consumer,NC,Water Bottle,Sports,1,18.5,0,18.5,6.99,6.51,Amazon,Delivered
+ORD-11123,2026-01-15,Consumer,TX,Notebook Set,Office,1,9.99,0,9.99,4.99,5.0,Website,Delivered
+ORD-11124,2025-03-08,Corporate,FL,Protein Bar Box,Grocery,2,19.99,0,39.98,0,34.98,Amazon,Delivered
+ORD-11125,2025-02-08,Corporate,TX,Coffee Beans 1lb,Grocery,3,14.99,0.05,42.72,0,42.72,Instagram,Delivered
+ORD-11126,2025-03-07,Consumer,NY,Notebook Set,Office,3,9.99,0,29.97,0,29.97,Website,Returned
+ORD-11127,2025-08-12,Consumer,CA,Running Socks 3pk,Apparel,1,11.0,0.05,10.45,0,10.45,TikTok,Delivered
+ORD-11128,2025-05-29,Consumer,FL,Yoga Mat,Sports,2,24.0,0,48.0,0,48.0,Amazon,Delivered
+ORD-11129,2025-03-26,Consumer,NY,Water Bottle,Sports,2,18.5,0.15,31.45,0,31.45,Instagram,Delivered
+ORD-11130,2025-01-02,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Website,Returned
+ORD-11131,2025-06-05,Consumer,NC,LED Strip Lights,Home,2,22.0,0.15,37.4,4.99,32.41,TikTok,Delivered
+ORD-11132,2025-05-30,Consumer,FL,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Delivered
+ORD-11133,2025-04-18,Corporate,FL,Desk Lamp,Home,1,32.0,0.15,27.2,0,22.2,Website,Cancelled
+ORD-11134,2025-12-28,Corporate,NC,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Instagram,Returned
+ORD-11135,2025-07-02,Consumer,NC,Desk Lamp,Home,1,32.0,0,32.0,0,32.0,Website,Returned
+ORD-11136,2025-12-01,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0.15,16.99,6.99,9.999999999999998,Website,Delivered
+ORD-11137,2025-03-21,Consumer,GA,Desk Lamp,Home,1,32.0,0.1,28.8,6.99,21.810000000000002,Instagram,Delivered
+ORD-11138,2025-04-03,Consumer,FL,Yoga Mat,Sports,2,24.0,0,48.0,6.99,41.01,Website,Delivered
+ORD-11139,2025-11-28,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0.15,33.98,0,33.98,Website,Delivered
+ORD-11140,2025-02-06,Consumer,GA,Protein Bar Box,Grocery,1,19.99,0,19.99,0,19.99,Amazon,Delivered
+ORD-11141,2026-01-08,Consumer,FL,Phone Case,Accessories,3,12.5,0.1,33.75,0,33.75,Website,Delivered
+ORD-11142,2025-05-08,Consumer,NC,Wireless Earbuds,Electronics,3,29.99,0,89.97,0,84.97,Amazon,Returned
+ORD-11143,2025-10-05,Corporate,TX,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,0,23.99,Website,Delivered
+ORD-11144,2025-03-25,Consumer,TX,Yoga Mat,Sports,2,24.0,0.2,38.4,6.99,31.409999999999997,Website,Delivered
+ORD-11145,2025-01-11,Consumer,FL,Notebook Set,Office,3,9.99,0,29.97,0,29.97,Website,Returned
+ORD-11146,2025-01-13,Consumer,NY,Water Bottle,Sports,1,18.5,0,18.5,0,18.5,Website,Cancelled
+ORD-11147,2025-12-18,Corporate,FL,Desk Lamp,Home,1,32.0,0.15,27.2,6.99,20.21,Website,Delivered
+ORD-11148,2025-11-12,Consumer,FL,Phone Case,Accessories,1,12.5,0,12.5,0,12.5,Website,Delivered
+ORD-11149,2025-09-29,Consumer,FL,Protein Bar Box,Grocery,1,19.99,0,19.99,6.99,12.999999999999998,Website,Cancelled
+ORD-11150,2025-06-28,Consumer,NC,Desk Lamp,Home,2,32.0,0.2,51.2,4.99,46.21,Amazon,Delivered
+ORD-11151,2025-01-02,Consumer,FL,Desk Lamp,Home,3,32.0,0.2,76.8,0,76.8,Instagram,Delivered
+ORD-11152,2026-01-08,Consumer,FL,LED Strip Lights,Home,1,22.0,0,22.0,6.99,10.01,Website,Delivered
+ORD-11153,2025-08-06,Consumer,NY,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Amazon,Delivered
+ORD-11154,2025-08-03,Corporate,CA,Yoga Mat,Sports,3,24.0,0,72.0,6.99,65.01,Instagram,Returned
+ORD-11155,2025-10-25,Corporate,NY,Notebook Set,Office,1,9.99,0.05,9.49,0,9.49,Amazon,Cancelled
+ORD-11156,2025-07-05,Consumer,GA,Coffee Beans 1lb,Grocery,3,14.99,0,44.97,0,44.97,Website,Delivered
+ORD-11157,2025-01-31,Consumer,TX,Notebook Set,Office,2,9.99,0,19.98,0,19.98,Website,Delivered
+ORD-11158,2025-05-05,Consumer,GA,LED Strip Lights,Home,1,22.0,0.2,17.6,6.99,5.61,Website,Delivered
+ORD-11159,2025-12-23,Consumer,TX,Yoga Mat,Sports,2,24.0,0.15,40.8,0,35.8,Website,Cancelled
+ORD-11160,2025-01-16,Consumer,TX,Protein Bar Box,Grocery,1,19.99,0.05,18.99,0,13.99,Website,Delivered
+ORD-11161,2025-03-18,Consumer,CA,Wireless Earbuds,Electronics,2,29.99,0.2,47.98,6.99,40.989999999999995,Amazon,Returned
+ORD-11162,2025-08-16,Corporate,FL,Desk Lamp,Home,2,32.0,0.05,60.8,4.99,55.809999999999995,Website,Delivered
+ORD-11163,2025-09-15,Consumer,FL,Wireless Earbuds,Electronics,2,29.99,0.2,47.98,0,47.98,Instagram,Cancelled
+ORD-11164,2025-10-20,Corporate,NC,LED Strip Lights,Home,2,22.0,0.15,37.4,4.99,32.41,Instagram,Delivered
+ORD-11165,2025-03-06,Corporate,GA,Desk Lamp,Home,1,32.0,0.1,28.8,6.99,21.810000000000002,Website,Delivered
+ORD-11166,2025-12-21,Consumer,CA,Water Bottle,Sports,1,18.5,0.2,14.8,0,14.8,Amazon,Delivered
+ORD-11167,2025-11-28,Consumer,GA,Water Bottle,Sports,1,18.5,0,18.5,4.99,13.51,Website,Delivered
+ORD-11168,2025-01-15,Consumer,NC,Running Socks 3pk,Apparel,2,11.0,0.2,17.6,4.99,12.610000000000001,Website,Delivered
+ORD-11169,2025-04-07,Corporate,GA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,4.99,24.990000000000002,Website,Delivered
+ORD-11170,2025-10-16,Consumer,FL,Desk Lamp,Home,1,32.0,0.1,28.8,0,23.8,Website,Delivered
+ORD-11171,2025-07-23,Corporate,GA,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,4.99,19.0,Instagram,Cancelled
+ORD-11172,2025-06-19,Consumer,FL,Running Socks 3pk,Apparel,1,11.0,0.15,9.35,0,9.35,Website,Delivered
+ORD-11173,2025-05-29,Consumer,FL,Protein Bar Box,Grocery,2,19.99,0.05,37.98,0,37.98,Website,Cancelled
+ORD-11174,2025-12-15,Corporate,FL,Phone Case,Accessories,3,12.5,0,37.5,0,37.5,Website,Returned
+ORD-11175,2025-08-18,Consumer,TX,Notebook Set,Office,3,9.99,0.1,26.97,4.99,21.979999999999997,TikTok,Delivered
+ORD-11176,2025-05-03,Consumer,FL,Wireless Earbuds,Electronics,3,29.99,0.2,71.98,6.99,64.99000000000001,TikTok,Cancelled
+ORD-11177,2025-03-15,Consumer,FL,LED Strip Lights,Home,1,22.0,0.2,17.6,0,17.6,Instagram,Delivered
+ORD-11178,2025-05-24,Corporate,TX,Yoga Mat,Sports,1,24.0,0,24.0,0,24.0,Website,Delivered
+ORD-11179,2026-01-26,Consumer,FL,LED Strip Lights,Home,1,22.0,0.05,20.9,4.99,15.909999999999998,TikTok,Delivered
+ORD-11180,2025-07-25,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.2,23.99,4.99,19.0,TikTok,Returned
+ORD-11181,2025-09-17,Consumer,NC,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,4.01,Amazon,Delivered
+ORD-11182,2025-12-25,Corporate,FL,Protein Bar Box,Grocery,3,19.99,0,59.97,0,59.97,Website,Delivered
+ORD-11183,2025-02-07,Consumer,NY,Water Bottle,Sports,1,18.5,0.1,16.65,6.99,9.659999999999998,Amazon,Delivered
+ORD-11184,2025-02-25,Consumer,FL,Running Socks 3pk,Apparel,2,11.0,0.05,20.9,6.99,13.909999999999998,Instagram,Delivered
+ORD-11185,2025-06-12,Consumer,CA,Coffee Beans 1lb,Grocery,2,14.99,0,29.98,0,29.98,Amazon,Delivered
+ORD-11186,2025-10-07,Consumer,CA,Phone Case,Accessories,1,12.5,0.05,11.88,0,6.88,Website,Delivered
+ORD-11187,2025-02-01,Consumer,NY,Protein Bar Box,Grocery,1,19.99,0.1,17.99,6.99,10.999999999999998,Website,Delivered
+ORD-11188,2025-05-19,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.2,11.99,6.99,0.0,Website,Delivered
+ORD-11189,2025-08-03,Corporate,GA,Water Bottle,Sports,1,18.5,0,18.5,6.99,11.51,Website,Delivered
+ORD-11190,2026-01-21,Consumer,FL,Wireless Earbuds,Electronics,1,29.99,0.05,28.49,4.99,23.5,Instagram,Delivered
+ORD-11191,2025-12-23,Consumer,TX,LED Strip Lights,Home,2,22.0,0.15,37.4,0,37.4,TikTok,Delivered
+ORD-11192,2025-02-09,Corporate,FL,Wireless Earbuds,Electronics,2,29.99,0.2,47.98,0,47.98,Amazon,Cancelled
+ORD-11193,2025-03-17,Consumer,TX,Running Socks 3pk,Apparel,1,11.0,0,11.0,6.99,-0.99,Amazon,Delivered
+ORD-11194,2025-08-19,Consumer,CA,Desk Lamp,Home,2,32.0,0.15,54.4,0,54.4,TikTok,Delivered
+ORD-11195,2025-08-04,Corporate,FL,Wireless Earbuds,Electronics,1,29.99,0.15,25.49,0,25.49,Website,Delivered
+ORD-11196,2025-07-09,Consumer,FL,Coffee Beans 1lb,Grocery,1,14.99,0.15,12.74,0,12.74,Website,Returned
+ORD-11197,2025-07-31,Consumer,TX,Phone Case,Accessories,3,12.5,0.05,35.62,6.99,28.629999999999995,TikTok,Delivered
+ORD-11198,2025-08-23,Consumer,TX,Notebook Set,Office,1,9.99,0,9.99,0,9.99,TikTok,Delivered
+ORD-11199,2025-12-04,Corporate,NY,Notebook Set,Office,2,9.99,0.05,18.98,4.99,13.99,Amazon,Returned
+ORD-11200,2025-02-15,Corporate,FL,Phone Case,Accessories,1,12.5,0.2,10.0,0,10.0,Instagram,Delivered
